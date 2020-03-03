@@ -18,7 +18,7 @@ This site mainly includes info about my research and teaching. Feel free to <a h
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)" target="_blank"> <img src="pages/icons32/google-icon.png" alt="hi" class="inline"/>Scholar</a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://github.com/zieglerjef" target="_blank"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub</a></td>
+	<td><a href="https://github.com/jeffreyziegler" target="_blank"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub</a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://twitter.com/jeffreymziegler" target="_blank"> <img src="pages/icons32/twitter-icon.png" alt="hi" class="inline"/> Twitter</a></td></tr>
 </table>
