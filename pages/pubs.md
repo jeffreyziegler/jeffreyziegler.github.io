@@ -89,6 +89,11 @@ Democracies are thought to violate treaties less frequently than non-democracies
 <br/>
 Bechtel, Michael M. & **Jeffrey Ziegler**. ”Foreign Policy Interests and International Disaster Assistance”.
 
+<table align="left">
+  <tr>
+	<td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3472528" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
 <details><summary> Abstract </summary>
 <br/><p>
 How does international financial assistance reflect strategic political interests? The "buying influence" argument predicts that countries provide more support to governments that pursue antithetical foreign policy objectives to induce favorable policy shifts. However, such efforts seem unlikely to persuade highly antithetical governments to engage in drastic policy changes and may not be necessary if a
