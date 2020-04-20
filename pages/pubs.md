@@ -87,6 +87,7 @@ Democracies are thought to violate treaties less frequently than non-democracies
 </p><br/>
 </details>
 <br/>
+
 Bechtel, Michael M. & **Jeffrey Ziegler**. ”Foreign Policy Interests and International Disaster Assistance”.
 
 <table align="left">
