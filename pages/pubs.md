@@ -59,16 +59,16 @@ One of the more important innovations in the study of how citizens assess the U.
 
 **openEnded**
 
-<details><summary> Summary </summary>
-<br/><p>
-Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
-</p><br/>
-</details>
-
 <table align="left">
   <tr>
 	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> GitHub Page</a></td></tr>
 </table><br/>
+
+<details><summary> Description </summary>
+<br/><p>
+Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
+</p><br/>
+</details>
 
 ### <a name="workingPapers"></a>Working Papers
 
