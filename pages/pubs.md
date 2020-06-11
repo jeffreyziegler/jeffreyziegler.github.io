@@ -8,6 +8,7 @@ description: Jeffrey Ziegler's research
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#articles">Articles</a></li>
+	    <li><a href="#software">Software</a></li>
             <li><a href="#workingPapers">Working papers</a></li>
             <li><a href="#grants">Grants and Awards</a></li>
         </ul>
@@ -53,6 +54,22 @@ One of the more important innovations in the study of how citizens assess the U.
 </pre>
 </p><br/>
 </details>
+
+### <a name="software"></a>Software
+
+**openEnded**
+
+<details><summary> Summary </summary>
+<br/><p>
+Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
+</p><br/>
+</details>
+<br/>	
+
+<table align="left">
+  <tr>
+	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub Page</a></td></tr>
+</table><br/>
 
 ### <a name="workingPapers"></a>Working Papers
 
