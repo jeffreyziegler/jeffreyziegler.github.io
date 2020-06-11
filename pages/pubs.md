@@ -64,7 +64,6 @@ One of the more important innovations in the study of how citizens assess the U.
 Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
 </p><br/>
 </details>
-<br/>	
 
 <table align="left">
   <tr>
