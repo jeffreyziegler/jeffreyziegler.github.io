@@ -68,7 +68,7 @@ Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Respons
 
 <table align="left">
   <tr>
-	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub Page</a></td></tr>
+	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> GitHub Page</a></td></tr>
 </table><br/>
 
 ### <a name="workingPapers"></a>Working Papers
