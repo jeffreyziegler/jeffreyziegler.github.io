@@ -53,3 +53,7 @@ description: Jeff Ziegler's teaching
 - Ethnic Conflict: Causes and Remedies (Spring 2015; Instructor: Sunita Parikh)
 
 - Law, Politics, and Society (Fall 2015; Instructor: James L. Gibson)
+
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/jeffreymziegler/individual_meeting', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
