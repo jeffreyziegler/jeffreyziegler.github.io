@@ -169,3 +169,7 @@ The CompLaw database provides a common coding template for describing the contex
 - Larsen Family Scholarship (2011)
 
 - ScanDesign Scholarship (2011)
+
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/jeffreymziegler/individual_meeting', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
