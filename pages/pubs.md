@@ -72,7 +72,7 @@ Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Respons
 
 ### <a name="workingPapers"></a>Working Papers
 
-**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". 
+**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Conditionally Accepted at Political Analysis*.
 
 <table align="left">
   <tr>
