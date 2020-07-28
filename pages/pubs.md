@@ -102,11 +102,6 @@ Are leaders responsive to their members’ preferences over time, even when form
 
 **Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
 
-<details><summary> Abstract </summary>
-<br/><p>
-Religious organizations that pursue a political agenda must coordinate the demands of existing members, and compete against rival religious groups for supporters and political influence. There is not, however, a precise explanation for how and when religious organizations globally expand given these competing objectives. I theorize that religious organizations, as interest or non-governmental organizations, do protect against competing denominations and service current followers, but they primarily expand their organizational capacity to target legislators when a government is a political ally. I test this prediction using original data of over 2,300 changes within the Catholic Church’s diocese hierarchy from 1900 to 2010. The results show that the Church is more likely to invest resources in a country when the government is a political ally. Importantly, the Church does not divert existing resources from members, or when there are greater numbers of Pentecostal and Evangelical supporters. The findings help illustrate the constraints and priorities that religious groups face in expanding their international political reach.
-</p><br/>
-</details>
 <br/>
 
 **Ziegler, Jeffrey** & David Carlson. ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
@@ -169,7 +164,3 @@ The CompLaw database provides a common coding template for describing the contex
 - Larsen Family Scholarship (2011)
 
 - ScanDesign Scholarship (2011)
-
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/jeffreymziegler/individual_meeting', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
