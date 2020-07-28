@@ -11,7 +11,7 @@ Currently, I’m a Post-Doctoral Fellow in the Institute for Quantitative Theory
 
 In my research, I extend computational and quantitative methods to political science, focusing on the use of text as data and survey experiments. I apply these techniques to study questions of legitimacy, accountability, and responsiveness related to law and courts, religion and politics, as well as political economy.<br/><br/>
 
-This site mainly includes info about my research and teaching. Feel free to <a href="https://zieglerjef.github.io/pages/about.html">contact me</a> with any comments or questions!<br/><br/>
+This site mainly includes info about my research and teaching. Feel free to <a href="https://jeffreyziegler.github.io/pages/about.html">contact me</a> with any comments or questions!<br/><br/>
 
 <table align="left">
   <tr><td><a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_CV.pdf?dl=0" target="_blank"> <img src="pages/icons32/pdf-icon.png" alt="hi" class="inline"/>CV</a></td>
