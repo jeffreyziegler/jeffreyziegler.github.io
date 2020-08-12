@@ -61,7 +61,7 @@ One of the more important innovations in the study of how citizens assess the U.
 
 <table align="left">
   <tr>
-	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> GitHub Page</a></td></tr>
+	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> GitHub Page for Source Code</a></td>  <td><a href="https://jeffreyziegler.github.io//pages/openEnded.html" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> Instructions and Vignette</a></td> </tr>
 </table><br/>
 
 <details><summary> Description </summary>
