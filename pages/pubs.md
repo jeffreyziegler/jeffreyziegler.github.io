@@ -23,7 +23,7 @@ Gibson, James L., Miguel M. Pereira, & **Jeffrey Ziegler**. (2017). ”Updating 
 the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research*. 45(6), 980-1002.
 
 <table align="left">
-  <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/html-icon.png" alt="hi" class="inline"/> Link </a></td>
+  <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/s/1wq07kzo494s3pt/Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
