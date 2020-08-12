@@ -27,7 +27,7 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/s/1wq07kzo494s3pt/Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://www.dropbox.com/s/gh0l4evmnd3xlj2/Appendix_Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/supp-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
+	<td><a href="https://www.dropbox.com/s/gh0l4evmnd3xlj2/Appendix_Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
