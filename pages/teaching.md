@@ -20,7 +20,7 @@ description: Jeff Ziegler's teaching
   <tr><td><a href="https://www.dropbox.com/s/a72nzshjsu0qqzz/SyllabusQTM200Spring2020_public.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
 </table><br style="line-height: 5px" />
 
-- Legislative Accountability Lab (Fall 2019 - Present; Emory University, co-instructed with Clifford Carrubba)
+- Legislative Accountability Lab (Fall 2019 - <a href="https://jeffreyziegler.github.io/pages/CompLegteachingMaterials/" target="_blank"> Present</a>; Emory University, co-instructed with Clifford Carrubba)
 
 <table style="margin-left: 25px">
   <tr><td><a href="https://emory.box.com/s/9q1wx705oeebb5tm1pgiu3skj21oc8kp" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
