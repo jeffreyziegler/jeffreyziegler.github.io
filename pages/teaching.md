@@ -23,7 +23,7 @@ description: Jeff Ziegler's teaching
 - Legislative Accountability Lab (Fall 2019 - Present; Emory University, co-instructed with Clifford Carrubba)
 
 <table style="margin-left: 25px">
-  <tr><td><a href="https://www.dropbox.com/s/rrdinmj5quu6whi/SyllabusCompLegFall2019.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
+  <tr><td><a href="https://emory.box.com/s/9q1wx705oeebb5tm1pgiu3skj21oc8kp" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
 </table><br style="line-height: 5px" />
 
 - Introduction to Quantitative Methods (Spring 2019; University College: Washington University in St. Louis)
