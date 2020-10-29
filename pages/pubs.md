@@ -135,6 +135,8 @@ recipient country already pursues compatible foreign policies. We analyze intern
 </details>
 <br/>
 
+Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curium Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
+
 Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the CompLaw Database: Exploring the Limits and Possibilities of Replacing Human Coders”.
 
 <br/>
