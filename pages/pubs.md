@@ -7,7 +7,7 @@ description: Jeffrey Ziegler's research
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#articles">Articles</a></li>
+            <li><a href="#publications">Publications</a></li>
 	    <li><a href="#software">Software</a></li>
             <li><a href="#workingPapers">Working papers</a></li>
             <li><a href="#grants">Grants and Awards</a></li>
@@ -17,7 +17,21 @@ description: Jeffrey Ziegler's research
 
 Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a>
 
-### <a name="articles"></a>Journal Articles
+### <a name="publications"></a>Publications
+
+**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Conditionally Accepted at Political Analysis*.
+
+<table align="left">
+  <tr>
+	<td><a href="https://osf.io/preprints/socarxiv/ztgpm/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Participants that complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or informational closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text that respondents provide in an open-ended manipulation check. There are multiple benefits to this approach. First, it provides a continuous measure of attention, which allows for greater variation between respondents. Second, it reduces the reliance on subjective, paid humans to analyze open-ended responses. Last, I outline how to diagnose the impact of inattentive workers on the overall results, including how to assess the average treatment effect of those respondents that likely received the treatment. I provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
+</p><br/>
+</details>
+<br/>	
 
 Gibson, James L., Miguel M. Pereira, & **Jeffrey Ziegler**. (2017). ”Updating Supreme Court Legitimacy: Testing
 the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research*. 45(6), 980-1002.
@@ -72,20 +86,6 @@ Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Respons
 
 ### <a name="workingPapers"></a>Working Papers
 
-**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Conditionally Accepted at Political Analysis*.
-
-<table align="left">
-  <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/ztgpm/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Participants that complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or informational closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text that respondents provide in an open-ended manipulation check. There are multiple benefits to this approach. First, it provides a continuous measure of attention, which allows for greater variation between respondents. Second, it reduces the reliance on subjective, paid humans to analyze open-ended responses. Last, I outline how to diagnose the impact of inattentive workers on the overall results, including how to assess the average treatment effect of those respondents that likely received the treatment. I provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
-</p><br/>
-</details>
-<br/>	
-
 **Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church”.
 
 <table align="left">
@@ -136,12 +136,6 @@ recipient country already pursues compatible foreign policies. We analyze intern
 <br/>
 
 Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the CompLaw Database: Exploring the Limits and Possibilities of Replacing Human Coders”.
-
-<table align="left">
-  <tr>
-	<td><a href="https://www.dropbox.com/s/e4r171drl2fc70c/FCC_public.pdf?dl=0
-" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
 
 <details><summary> Abstract </summary>
 <br/><p>
