@@ -15,7 +15,7 @@ description: Jeffrey Ziegler's research
     </div>
 </div>
 
-Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a>
+Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a> <br/>
 
 ### <a name="publications"></a>Publications
 
@@ -68,7 +68,7 @@ One of the more important innovations in the study of how citizens assess the U.
 </pre>
 </p><br/>
 </details>
-
+<br/>
 ### <a name="software"></a>Software
 
 **openEnded**
@@ -83,7 +83,7 @@ One of the more important innovations in the study of how citizens assess the U.
 Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
 </p><br/>
 </details>
-
+<br/>
 ### <a name="workingPapers"></a>Working Papers
 
 **Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church”.
