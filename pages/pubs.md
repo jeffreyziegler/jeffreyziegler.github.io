@@ -19,7 +19,7 @@ Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Conditionally Accepted at Political Analysis*.
+**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Accepted at Political Analysis*.
 
 <table align="left">
   <tr>
