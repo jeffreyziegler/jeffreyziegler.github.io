@@ -38,7 +38,7 @@ description: Jeff Ziegler's teaching
   <tr><td><a href="https://www.dropbox.com/s/k8ccp15fsb9wsar/Syllabus%20Intro%20IR%20Fall%202018.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
 </table><br style="line-height: 5px" />
 
-### <a name="TA"></a>Teaching assistant
+### <a name="TA"></a>Teaching Assistant
 
 - Global Justice (Spring 2018; Instructor: Frank Lovett)
 
