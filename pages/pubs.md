@@ -100,7 +100,7 @@ Are leaders responsive to their members’ preferences over time, even when form
 </details>
 <br/>
 
-**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
+**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Religious Competition, or Supporting Political Allies?”.
 
 <br/>
 
