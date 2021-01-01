@@ -19,6 +19,22 @@ Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
+Carlson, David & **Ziegler, Jeffrey**. ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
+Violations”. Conditionally Accepted at Uluslararası İlişkiler - International Relations
+
+<table align="left">
+  <tr>
+	<td><a href="https://osf.io/preprints/socarxiv/b7xp2" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
+
+<details><summary> Abstract </summary>
+<br/><p>
+Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
+</p><br/>
+</details>
+<br/>
+
 **Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Accepted at Political Analysis*.
 
 <table align="left">
@@ -102,22 +118,6 @@ Are leaders responsive to their members’ preferences over time, even when form
 
 **Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Religious Competition, or Supporting Political Allies?”.
 
-<br/>
-
-**Ziegler, Jeffrey** & David Carlson. ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
-Violations”.
-
-<table align="left">
-  <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/b7xp2" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-
-<details><summary> Abstract </summary>
-<br/><p>
-Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
-</p><br/>
-</details>
 <br/>
 
 Bechtel, Michael M. & **Jeffrey Ziegler**. ”Foreign Policy Interests and International Disaster Assistance”.
