@@ -20,7 +20,7 @@ Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_C
 ### <a name="publications"></a>Publications
 
 Carlson, David & **Ziegler, Jeffrey**. ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
-Violations”. Conditionally Accepted at Uluslararası İlişkiler - International Relations
+Violations”. *Conditionally Accepted at Uluslararası İlişkiler - International Relations*.
 
 <table align="left">
   <tr>
