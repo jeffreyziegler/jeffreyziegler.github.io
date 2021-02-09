@@ -138,7 +138,7 @@ recipient country already pursues compatible foreign policies. We analyze intern
 Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”The Comparative Study of Judicial Review: A New Dataset and Test of the Moral Hazard Effect”.
 <br/><br/>
 
-Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curium Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
+Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
 <br/><br/>
 
 
