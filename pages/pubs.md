@@ -136,9 +136,7 @@ recipient country already pursues compatible foreign policies. We analyze intern
 <br/>
 
 Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
-<br/><br/>
-
-
+<br/>
 <details><summary> Abstract </summary>
 <br/><p>
 Research that assesses judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from the language in aggregated judgments. Specifically, we apply CNNs to analyze the written opinions of judge-rapporteurs and advocates-generals from the Court of Justice of the European Union. We estimate along a pro-anti EU dimension how judgments differ within (1) each case to the advocates-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
