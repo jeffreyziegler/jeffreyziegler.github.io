@@ -35,7 +35,7 @@ Democracies are thought to violate treaties less frequently than non-democracies
 </details>
 <br/>
 
-**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Accepted at Political Analysis*.
+**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Forthcoming at Political Analysis*.
 
 <table align="left">
   <tr>
@@ -116,24 +116,6 @@ Are leaders responsive to their followers’ political preferences over time eve
 </details>
 <br/>
 
-**Ziegler, Jeffrey**. ”How Do Religious Groups Expand in a Political World?”.
-
-<br/>
-
-Bechtel, Michael M. & **Jeffrey Ziegler**. ”Foreign Policy Interests and International Disaster Assistance”.
-
-<table align="left">
-  <tr>
-	<td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3472528" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-How does international financial assistance reflect strategic political interests? The "buying influence" argument predicts that countries provide more support to governments that pursue antithetical foreign policy objectives to induce favorable policy shifts. However, such efforts seem unlikely to persuade highly antithetical governments to engage in drastic policy changes and may not be necessary if a
-recipient country already pursues compatible foreign policies. We analyze international responses to natural disasters using data for 203 countries from 2000 to 2014 and find that donors provide more relief to countries whose foreign policies are moderately aligned. We also explore donors' delivery tactics and find that the probability of providing disaster assistance directly to the recipient country's government is more likely as political affinity with the donor country increases. Overall, the relationships between foreign policy interests and international assistance seem more consistent with a political efficiency logic than with the standard buying influence argument.
-</p><br/>
-</details>
-<br/>
 
 Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
 <br/>
@@ -145,6 +127,11 @@ Research that assesses judges' political preferences typically focuses on courts
 <br/>
 
 Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the CompLaw Database: Exploring the Limits and Possibilities of Replacing Human Coders”.
+
+<br/>
+
+
+Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
 
 <br/>
 ### <a name="grants"></a>Grants and Awards
