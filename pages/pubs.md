@@ -135,6 +135,13 @@ Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the CompLaw Database: Explor
 
 
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
+<br/>
+<details><summary> Abstract </summary>
+<br/><p>
+Social scientists increasingly use conjoint experiments to mimic political decisions that ordinary people face, such as selecting news stories or voting for public officials. Conjoint designs, however, do not always mirror the real-world decisions that individuals make because respondents are forced to select only one of two options and cannot abstain. First, we show through simulations that allowing respondents to abstain can yield different average marginal component effects (AMCEs) depending on the (1) reference category of comparison and (2) variation in respondents’ "cost" to select one of the alternatives. Second, we demonstrate empirically how omitting a realistic abstention option leads to over- and under-estimation of the AMCEs by replicating two conjoint experiments. We provide an online application to help practitioners explore how forcing respondents to express a preference when none exists may impact the results of their conjoint experiment.
+</p><br/>
+</details>
+<br/>
 
 <br/>
 ### <a name="grants"></a>Grants and Awards
