@@ -129,11 +129,6 @@ Research that assesses judges' political preferences typically focuses on courts
 </details>
 <br/>
 
-Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the CompLaw Database: Exploring the Limits and Possibilities of Replacing Human Coders”.
-
-<br/>
-
-
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
 <br/>
 <details><summary> Abstract </summary>
