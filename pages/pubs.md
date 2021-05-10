@@ -38,8 +38,11 @@ Democracies are thought to violate treaties less frequently than non-democracies
 **Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Forthcoming at Political Analysis*.
 
 <table align="left">
-  <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/ztgpm/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+  <tr><td><a href="https://www.cambridge.org/core/journals/political-analysis/article/abs/textasdata-approach-for-using-openended-responses-as-manipulation-checks/C0A94C4CC5D0ECC72E8A670050D76ED4#metrics" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://osf.io/preprints/socarxiv/ztgpm/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WXIRQN" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
