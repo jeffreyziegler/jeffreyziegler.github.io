@@ -7,26 +7,60 @@ description: Jeffrey Ziegler's research
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#articles">Articles</a></li>
+            <li><a href="#publications">Publications</a></li>
+	    <li><a href="#software">Software</a></li>
             <li><a href="#workingPapers">Working papers</a></li>
             <li><a href="#grants">Grants and Awards</a></li>
         </ul>
     </div>
 </div>
 
-Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a>
+Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a> <br/>
 
-### <a name="articles"></a>Journal Articles
+### <a name="publications"></a>Publications
+
+Carlson, David & **Ziegler, Jeffrey**. ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
+Violations”. *Accepted at Uluslararası İlişkiler - International Relations*.
+
+<table align="left">
+  <tr><td><a href="https://osf.io/preprints/socarxiv/b7xp2" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TBKLWV" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
+</p><br/>
+</details>
+<br/>
+
+**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Forthcoming at Political Analysis*.
+
+<table align="left">
+  <tr><td><a href="https://www.cambridge.org/core/journals/political-analysis/article/abs/textasdata-approach-for-using-openended-responses-as-manipulation-checks/C0A94C4CC5D0ECC72E8A670050D76ED4#metrics" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://osf.io/preprints/socarxiv/ztgpm/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WXIRQN" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Participants that complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or instructional closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text that respondents provide in an open-ended manipulation check. There are multiple benefits to this approach. First, it provides a continuous measure of attention, which allows for greater variation between respondents. Second, it reduces the reliance on subjective, paid humans to analyze open-ended responses.  Last, I outline how to diagnose the impact of inattentive workers on the overall results, including how to assess the average treatment effect of those respondents that likely received the treatment. I provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
+</p><br/>
+</details>
+<br/>	
 
 Gibson, James L., Miguel M. Pereira, & **Jeffrey Ziegler**. (2017). ”Updating Supreme Court Legitimacy: Testing
 the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research*. 45(6), 980-1002.
 
 <table align="left">
-  <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/html-icon.png" alt="hi" class="inline"/> Link </a></td>
+  <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/s/1wq07kzo494s3pt/Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://www.dropbox.com/s/gh0l4evmnd3xlj2/Appendix_Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/supp-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
+	<td><a href="https://www.dropbox.com/s/gh0l4evmnd3xlj2/Appendix_Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
@@ -53,51 +87,57 @@ One of the more important innovations in the study of how citizens assess the U.
 </pre>
 </p><br/>
 </details>
+<br/>
+### <a name="software"></a>Software
 
+**openEnded**
+
+<table align="left">
+  <tr>
+	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> GitHub Page for Source Code</a></td>   </tr>
+</table><br/>
+
+<details><summary> Description </summary>
+<br/><p>
+Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
+</p><br/>
+</details>
+<br/>
 ### <a name="workingPapers"></a>Working Papers
 
-**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks".
+**Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church”.
+
+<table align="left">
+  <tr>
+	<td><a href="https://osf.io/preprints/socarxiv/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
 
 <details><summary> Abstract </summary>
 <br/><p>
-Remote workers hired to complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or informational closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text, either written or transcribed from audio, that respondents provide in an open-ended manipulation check. There are multiple benefits of this approach. First, it reduces the reliance on subjective, paid humans to analyze open-ended responses. Second, it provides a continuous measure of attention, which allows for greater variation between respondents. Additionally, I outline guidelines to diagnose the impact of inattentive workers, including how to re-estimate the overall results varying which respondents are down-weighted in the sample based on attention, as well as how to assess the average treatment effect of those respondents that likely received the treatment. I also provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
-</p><br/>
-</details>
-<br/>	
-
-**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
-
-<details><summary> Abstract </summary>
-<br/><p>
-Religious organizations that pursue a political agenda must coordinate the demands of existing members, and compete against rival religious groups for supporters and political influence. There is not, however, a precise explanation for how and when religious organizations globally expand given these competing objectives. I theorize that religious organizations, as interest or non-governmental organizations, do protect against competing denominations and service current followers, but they primarily expand their organizational capacity to target legislators when a government is a political ally. I test this prediction using original data of over 2,300 changes within the Catholic Church’s diocese hierarchy from 1900 to 2010. The results show that the Church is more likely to invest resources in a country when the government is a political ally. Importantly, the Church does not divert existing resources from members, or when there are greater numbers of Pentecostal and Evangelical supporters. The findings help illustrate the constraints and priorities that religious groups face in expanding their international political reach.
+Are leaders responsive to their followers’ political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that unelected leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its unelected leader, the pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics’ concerns. Second, I conduct survey experiments using nationally representative samples of Catholics in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that even in organizations without elections, leaders reaffirm members’ political interests because followers support organizations that are responsive.
 </p><br/>
 </details>
 <br/>
 
-**Ziegler, Jeffrey** & David Carlson. ”The Role of Credible Elections and Indirect Expropriation in Explaining International Investment Treaty Violations”.
 
+Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
+<br/>
 <details><summary> Abstract </summary>
 <br/><p>
-Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
+Research that assesses judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from the language in aggregated judgments. Specifically, we apply CNNs to analyze the written opinions of judge-rapporteurs and advocates-generals from the Court of Justice of the European Union. We estimate along a pro-anti EU dimension how judgments differ within (1) each case to the advocates-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
 </p><br/>
 </details>
 <br/>
-Bechtel, Michael M. & **Jeffrey Ziegler**. ”Foreign Policy Interests and International Disaster Assistance”.
 
+Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
+<br/>
 <details><summary> Abstract </summary>
 <br/><p>
-How does international financial assistance reflect strategic political interests? The "buying influence" argument predicts that countries provide more support to governments that pursue antithetical foreign policy objectives to induce favorable policy shifts. However, such efforts seem unlikely to persuade highly antithetical governments to engage in drastic policy changes and may not be necessary if a
-recipient country already pursues compatible foreign policies. We analyze international responses to natural disasters using data for 203 countries from 2000 to 2014 and find that donors provide more relief to countries whose foreign policies are moderately aligned. We also explore donors' delivery tactics and find that the probability of providing disaster assistance directly to the recipient country's government is more likely as political affinity with the donor country increases. Overall, the relationships between foreign policy interests and international assistance seem more consistent with a political efficiency logic than with the standard buying influence argument.
+Social scientists increasingly use conjoint experiments to mimic political decisions that ordinary people face, such as selecting news stories or voting for public officials. Conjoint designs, however, do not always mirror the real-world decisions that individuals make because respondents are forced to select only one of two options and cannot abstain. First, we show through simulations that allowing respondents to abstain can yield different average marginal component effects (AMCEs) depending on the (1) reference category of comparison and (2) variation in respondents’ "cost" to select one of the alternatives. Second, we demonstrate empirically how omitting a realistic abstention option leads to over- and under-estimation of the AMCEs by replicating two conjoint experiments. We provide an online application to help practitioners explore how forcing respondents to express a preference when none exists may impact the results of their conjoint experiment.
 </p><br/>
 </details>
 <br/>
-Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the CompLaw Database: Exploring the Limits and Possibilities of Replacing Human Coders”.
 
-<details><summary> Abstract </summary>
-<br/><p>
-The CompLaw database provides a common coding template for describing the context and outcomes of constitutional review across courts and time. In a pilot project, Carrubba et al. (2015) show the template is reasonably successful for systematically coding the relevant information of constitutional rulings for 48 courts for one year (2003). However, the coding template relies on human coding, which severely limits its expansion. In this paper, we evaluate the potential for populating the CompLaw database through an automated process based on the publications of the courts. Automation faces a variety of hurdles related to the formatting of documents and the language used. As a test case, we examine the French Constitutional Council which has rulings and supporting documents available electronically for a long time-series and with some potentially challenging features related to variation in the format/type of rulings (e.g., <i>ex ante</i> vs. <i>ex post</i> review). The goal of the exercise is to learn how much of the coding can be accomplished through automation. And, where automation cannot directly identify the correct information needed to complete the database, we define an algorithm that can isolate the relevant text that a human coder would need to complete the coding. 
-</p><br/>
-</details>
 <br/>
 ### <a name="grants"></a>Grants and Awards
 
