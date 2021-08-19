@@ -120,6 +120,15 @@ Are leaders responsive to their followers’ political preferences over time eve
 <br/>
 
 
+Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”The Comparative Study of Judicial Review: A New Database and Test of the Moral Hazard Effect of Review”.
+<br/>
+<details><summary> Abstract </summary>
+<br/><p>
+Judicial review - the opportunity for a court to strike a law or government action as unconstitutional – is designed to improve the constitutionality of governance. We introduce a coding protocol and database (CompLaw) of rulings by 42 constitutional courts that facilitates testing theoretical claims about judicial review.  Using CompLaw, we examine a novel theoretical implication: the likelihood a court strikes a law as unconstitutional is negatively related to the delay before the law is reviewed because legislators bear greater responsibility for any potentially unconstitutional policy (Ward and Gabel 2019). We first examine this relationship with a broad set of constitutional courts in one year.  We then conduct a more nuanced analysis of rulings by the French Constitutional Council over a 13-year period.  Our results are strongly consistent with theoretical expectations: legislation that is challenged to a court is more likely to be upheld when the prospect of judicial review is later.
+</p><br/>
+</details>
+<br/>
+
 Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
 <br/>
 <details><summary> Abstract </summary>
