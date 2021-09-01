@@ -12,17 +12,14 @@ title: Contact me
         </div>
         <div class="span5">
             Jeff Ziegler<br/>
-            <a href="http://www.quantitative.emory.edu/">Institute for Quantitative Theory and Methods</a><br/>
-            <a href="http://www.emory.edu">Emory University</a><br/>
-           405A Modern Languages Building  <br/>
-532 Kilgo Circle Atlanta, GA 30322<br/>
-
-            USA<br/><br/>
+            <a href="https://www.tcd.ie/Political_Science/">Department of Political Science</a><br/>
+            <a href="https://www.tcd.ie/">Trinity College Dublin</a><br/>
+            Ireland<br/><br/>
 
             <div id="hide_email">
-            Email: <code>jeffrey.</code><b>I</b><code>ziegler</code><b>don't</b><code>@</code><b>want</b><code>emo</code><b>spam!
-            </b><code>ry</code><code>.</code><b>please</b><code>e</code><b>leave
-            </b><code>d</code><b>me</b><b>alone</b><code>u</code><b>!</b>
+            Email: <code>zieglerj</code><b>I don't</b><code>@</code><b>want</b><code>t</code><b>spam!
+            </b><code>cd</code><code>.</code><b>please</b><code>i</code><b>leave
+            </b><code>e</code><b>me</b><b>alone</b><b>!</b>
 	</div>
     </div>
     
