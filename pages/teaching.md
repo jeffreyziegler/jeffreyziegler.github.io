@@ -14,33 +14,17 @@ description: Jeff Ziegler's teaching
 </div>
 ### <a name="instructor"></a>Instructor
 
-- PG Applied Statistical Analysis I/PhD Quantitative Methods I (<a href="https://asds-tcd.github.io/home/" target="_blank">Fall 2021</a>; Trinity College Dublin)
+- PG Applied Statistical Analysis I/PhD Quantitative Methods I (Fall 2021; Trinity College Dublin)
 
 - MSc Research Design (<a href="http://jeffreyziegler.org/pages/POU8047/" target="_blank">Fall 2021</a>; Trinity College Dublin)
 
 - Applied Regression Analysis (Spring 2020 - 2021; Emory University)
 
-<table style="margin-left: 25px">
-  <tr><td><a href="https://www.dropbox.com/s/9p8rkulgt4dxjq7/SyllabusQTM200Spring2021_public.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br style="line-height: 5px" />
-
 - Legislative Accountability Lab (Fall 2019 - 2021; Emory University, co-instructed with Clifford Carrubba)
-
-<table style="margin-left: 25px">
-  <tr><td><a href="https://emory.box.com/s/9q1wx705oeebb5tm1pgiu3skj21oc8kp" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br style="line-height: 5px" />
 
 - Introduction to Quantitative Methods (Spring 2019; University College: Washington University in St. Louis)
 
-<table style="margin-left: 25px">
-  <tr><td><a href="https://www.dropbox.com/s/5e62lkb6ctsisii/JZ_Syllabus_QPM_Spring2019.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br style="line-height: 5px" />
-
 - Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
-
-<table style="margin-left: 25px">
-  <tr><td><a href="https://www.dropbox.com/s/k8ccp15fsb9wsar/Syllabus%20Intro%20IR%20Fall%202018.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br style="line-height: 5px" />
 
 ### <a name="TA"></a>Teaching Assistant
 
