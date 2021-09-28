@@ -129,7 +129,7 @@ Judicial review - the opportunity for a court to strike a law or government acti
 </details>
 <br/>
 
-Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions Using Neural Networks”.
+Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions”.
 <br/>
 <details><summary> Abstract </summary>
 <br/><p>
