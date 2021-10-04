@@ -16,7 +16,7 @@ description: Jeff Ziegler's teaching
 
 - PG Applied Statistical Analysis I/PhD Quantitative Methods I (Fall 2021; Trinity College Dublin)
 
-- MSc Research Design (<a href="http://jeffreyziegler.org/pages/POU8047/" target="_blank">Fall 2021</a>; Trinity College Dublin)
+- MSc Research Design (Fall 2021; Trinity College Dublin)
 
 - Applied Regression Analysis (Spring 2020 - 2021; Emory University)
 
