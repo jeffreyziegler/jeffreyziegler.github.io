@@ -140,7 +140,7 @@ Research that assesses judges' political preferences typically focuses on courts
 </details>
 <br/>
 
-Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models ofAssociations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”.
+Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”.
 <br/>
 <details><summary> Abstract </summary>
 <br/><p>
