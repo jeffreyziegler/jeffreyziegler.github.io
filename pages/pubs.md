@@ -140,6 +140,15 @@ Research that assesses judges' political preferences typically focuses on courts
 </details>
 <br/>
 
+Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models ofAssociations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”.
+<br/>
+<details><summary> Abstract </summary>
+<br/><p
+Numerous cross-sectional studies confirm the long theorized association between mothers’ depression and lower parenting self-efficacy (PSE) beliefs.  However, cross-sectional studies leave unanswered the direction of this association: Does depression predict PSE? Does PSE predict depression? Are both true? Does the strength of the association between depression and PSE, regardless of the direction, generalize across participant characteristics and study design features? How stable is PSE over time? And how effective are interventions at enhancing PSE? To answer these questions, we conducted a meta-analytic review of longitudinal studies. With 35 eligible studies (22,698 participants), we found support for both models: there was a significant pooled effect of both depression on PSE and of PSE on depression, with nearly identical effect sizes (d = -0.21 and -0.22 respectively). The association was stronger in samples with mothers’ younger average age and studies that measured PSE among mothers relative to during pregnancy. We found a medium degree of stability in the index of PSE, d = 0.60. Finally, the estimated pooled effect size between being in an intervention group versus control group and PSE was 0.505. Overall, support for bidirectional associations between depression and PSE in mothers, along with our findings of the stability of PSE over time yet strong evidence for being modifiable with intervention, suggest the importance of continuing to develop, test, and disseminate interventions to enhance PSE. We interpret these findings in the context of both depression and PSE having been found to have serious consequences for child outcomes and maladaptive parenting.
+</p><br/>
+</details>
+<br/>
+
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
 <br/>
 <details><summary> Abstract </summary>
