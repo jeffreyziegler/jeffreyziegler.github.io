@@ -37,7 +37,7 @@ Participants that complete online surveys and experiments may be inattentive, wh
 <br/>	
 
 Carlson, David & **Ziegler, Jeffrey** (2021). ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
-Violations”. *Uluslararası İlişkiler - International Relations**. 45(6), 980-1002.
+Violations”. *Uluslararası İlişkiler - International Relations*. 18(72), 37-49.
 
 <table align="left">
   <tr><td><a href="https://www.uidergisi.com.tr/yazilar/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
