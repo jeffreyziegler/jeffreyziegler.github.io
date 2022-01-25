@@ -19,24 +19,6 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-Carlson, David & **Ziegler, Jeffrey**. ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
-Violations”. *Forthcoming at Uluslararası İlişkiler - International Relations*.
-
-<table align="left">
-  <tr><td><a href="https://www.uidergisi.com.tr/yazilar/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations-david-carlson-and-jeffrey-ziegler" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
-	  <td></td>	  <td></td>  <td></td>
-	  <td><a href="https://osf.io/preprints/socarxiv/b7xp2/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
-	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TBKLWV" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
-</p><br/>
-</details>
-<br/>
-
 **Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Forthcoming at Political Analysis*.
 
 <table align="left">
@@ -54,7 +36,25 @@ Participants that complete online surveys and experiments may be inattentive, wh
 </details>
 <br/>	
 
-Gibson, James L., Miguel M. Pereira, & **Jeffrey Ziegler**. (2017). ”Updating Supreme Court Legitimacy: Testing
+Carlson, David & **Ziegler, Jeffrey** (2021). ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
+Violations”. *Uluslararası İlişkiler - International Relations**. 45(6), 980-1002.
+
+<table align="left">
+  <tr><td><a href="https://www.uidergisi.com.tr/yazilar/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	  <td></td>	  <td></td>  <td></td>
+	  <td><a href="https://osf.io/preprints/socarxiv/b7xp2/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TBKLWV" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
+</p><br/>
+</details>
+<br/>
+
+Gibson, James L., Miguel M. Pereira, & **Jeffrey Ziegler** (2017). ”Updating Supreme Court Legitimacy: Testing
 the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research*. 45(6), 980-1002.
 
 <table align="left">
