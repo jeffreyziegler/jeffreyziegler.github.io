@@ -122,20 +122,11 @@ Are leaders responsive to their followers’ political preferences over time eve
 <br/>
 
 
-Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”The Comparative Study of Judicial Review: A New Database and Test of the Moral Hazard Effect of Review”.
+Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Database for the Comparative Study of Judicial Review”.
 <br/>
 <details><summary> Abstract </summary>
 <br/><p>
-Judicial review - the opportunity for a court to strike a law or government action as unconstitutional – is designed to improve the constitutionality of governance. We introduce a coding protocol and database (CompLaw) of rulings by 42 constitutional courts that facilitates testing theoretical claims about judicial review.  Using CompLaw, we examine a novel theoretical implication: the likelihood a court strikes a law as unconstitutional is negatively related to the delay before the law is reviewed because legislators bear greater responsibility for any potentially unconstitutional policy (Ward and Gabel 2019). We first examine this relationship with a broad set of constitutional courts in one year.  We then conduct a more nuanced analysis of rulings by the French Constitutional Council over a 13-year period.  Our results are strongly consistent with theoretical expectations: legislation that is challenged to a court is more likely to be upheld when the prospect of judicial review is later.
-</p><br/>
-</details>
-<br/>
-
-Cheruvu, Sivaram & **Jeffrey Ziegler**. ”How Much Influence Do Opinion Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions”.
-<br/>
-<details><summary> Abstract </summary>
-<br/><p>
-Research that assesses judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from the language in aggregated judgments. Specifically, we apply CNNs to analyze the written opinions of judge-rapporteurs and advocates-generals from the Court of Justice of the European Union. We estimate along a pro-anti EU dimension how judgments differ within (1) each case to the advocates-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
+A growing theoretical literature identifies how the process of constitutional review shapes judicial decision-making, legislative behavior, and even the constitutionality of legislation and executive actions. However, the empirical interrogation of these theoretical arguments is limited by the absence of a common protocol for coding constitutional review decisions across courts and time. We introduce such a coding protocol and database (CompLaw) of rulings by 42 constitutional courts. To illustrate the value of CompLaw, we examine a heretofore untested empirical implication about how review timing relates to rulings of unconstitutionality (Ward and Gabel, 2019). We first examine this relationship with a set of national constitutional courts in one year. We then conduct a more nuanced analysis of rulings by the French Constitutional Council over a 13-year period. Our data analysis highlights the benefits of CompLaw for scholars of judicial review.
 </p><br/>
 </details>
 <br/>
