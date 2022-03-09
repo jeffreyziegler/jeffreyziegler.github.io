@@ -123,6 +123,13 @@ Are leaders responsive to their followers’ political preferences over time eve
 
 
 Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Database for the Comparative Study of Judicial Review”.
+
+
+<table align="left">
+  <tr>
+	<td><a href="https://www.dropbox.com/s/76b2az59tm2p75l/BJPS_Final.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
 <br/>
 <details><summary> Abstract </summary>
 <br/><p>
