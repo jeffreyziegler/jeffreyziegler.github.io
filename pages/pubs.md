@@ -157,6 +157,8 @@ Social scientists increasingly use conjoint experiments to mimic political decis
 <br/>
 ### <a name="grants"></a>Grants and Awards
 
+- Arts and Social Sciences Benefactions Fund, Trinity College Dublin (2022)
+
 - Graduate Research Seed Grant, Washington University in St. Louis, Department of Political Science (2018)
 
 - Dissertation Support, Danforth Center on Religion and Politics (2018)
