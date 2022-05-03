@@ -137,7 +137,7 @@ A growing theoretical literature identifies how the process of constitutional re
 </details>
 <br/>
 
-Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”.
+Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Conditionally Accepted at Clinical Child and Family Psychology Review*.
 
 <table align="left">
   <tr>
