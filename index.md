@@ -30,8 +30,6 @@ This site mainly includes info about my research and teaching. Feel free to <a h
      		</div>
 	</div>
 	
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/jeffreymziegler/', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
+
 
 </div>
