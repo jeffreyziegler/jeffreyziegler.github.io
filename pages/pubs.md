@@ -137,6 +137,16 @@ A growing theoretical literature identifies how the process of constitutional re
 </details>
 <br/>
 
+
+Cheruvu, Sivaram, & **Jeffrey Ziegler**. ”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions”.
+
+<details><summary> Abstract </summary>
+<br/><p>
+Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
+</p><br/>
+</details>
+<br/>
+
 Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Conditionally Accepted at Clinical Child and Family Psychology Review*.
 
 <table align="left">
@@ -150,6 +160,22 @@ Numerous cross-sectional studies confirm the long theorized association between 
 </p><br/>
 </details>
 <br/>
+
+Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy".
+<br/>
+<details><summary> Abstract </summary>
+<br/><p>
+Introduction: In the context of clinical care, discussions concerning culture are important for providing inclusive and culturally responsive evidence-based treatments. The present study contributes to training and educating anti-racist psychologists by exploring a teaching strategy aimed at actively changing behaviors that may hinder rapport and therapeutic efficacy for clients of underrepresented and marginalized backgrounds. Drawing upon an extensively researched clinical intervention for the treatment of anxiety and fear—exposure therapy—the study explored the feasibility and acceptability of an exposure-based teaching strategy that intervenes on anxiety and avoidance behavior around multicultural discussions with clients. 
+
+Methods: A 2-arm randomized controlled pilot study was conducted with graduate trainees in clinical psychology or counseling to compare an interactive exposure-based workshop (IEB; n = 19) involving repeated simulated client interactions focused on cultural factors to a training-as-usual workshop (TAU; n = 16) involving an instructional video on the topic. Pre- and post-intervention simulated client interactions focusing on multicultural dialogue were used to assess the specific variables of interest. Trainee feedback was obtained post-intervention. 
+
+Results: IEB workshop attendees rated the workshop as more useful and reported they were more likely to recommend the workshop to a peer as compared TAU workshop attendees. Trainee feedback highlights the utility and desire for practice opportunities with client actors and opportunities for constructive feedback. 
+	
+Conclusions: Findings provide initial support for the acceptability and feasibility of an exposure-based clinical training to challenge avoidance behaviors and increase engagement in discussions around cultural factors with clients. 
+</p><br/>
+</details>
+<br/>
+
 
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
 <br/>
