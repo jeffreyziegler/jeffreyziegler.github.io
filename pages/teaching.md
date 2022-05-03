@@ -14,7 +14,7 @@ description: Jeff Ziegler's teaching
 </div>
 ### <a name="instructor"></a>Instructor
 
-- CPD Applied Machine Learning Using Social Data (Spring and Summer 2022; Trinity College Dublin)
+- CPD Applied Machine Learning Using Social Data (Summer 2022; Trinity College Dublin)
 
 - PG Applied Statistical Analysis II (Spring 2022; Trinity College Dublin)
 
