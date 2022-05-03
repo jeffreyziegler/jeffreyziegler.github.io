@@ -19,6 +19,20 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
+Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Conditionally Accepted at Clinical Child and Family Psychology Review*.
+
+<table align="left">
+  <tr>
+	<td><a href="https://www.dropbox.com/s/6b9v0gmqcotudt7/CCFPR.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Numerous cross-sectional studies confirm the long theorized association between mothers’ depression and lower parenting self-efficacy (PSE) beliefs.  However, cross-sectional studies leave unanswered the direction of this association: Does depression predict PSE? Does PSE predict depression? Are both true? Does the strength of the association between depression and PSE, regardless of the direction, generalize across participant characteristics and study design features? How stable is PSE over time? And how effective are interventions at enhancing PSE? To answer these questions, we conducted a meta-analytic review of longitudinal studies. With 35 eligible studies (22,698 participants), we found support for both models: there was a significant pooled effect of both depression on PSE and of PSE on depression, with nearly identical effect sizes (d = -0.21 and -0.22 respectively). The association was stronger in samples with mothers’ younger average age and studies that measured PSE among mothers relative to during pregnancy. We found a medium degree of stability in the index of PSE, d = 0.60. Finally, the estimated pooled effect size between being in an intervention group versus control group and PSE was 0.505. Overall, support for bidirectional associations between depression and PSE in mothers, along with our findings of the stability of PSE over time yet strong evidence for being modifiable with intervention, suggest the importance of continuing to develop, test, and disseminate interventions to enhance PSE. We interpret these findings in the context of both depression and PSE having been found to have serious consequences for child outcomes and maladaptive parenting.
+</p><br/>
+</details>
+<br/>
+
 **Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Political Analysis*. 30(2), 289-297.
 
 <table align="left">
@@ -143,20 +157,6 @@ Cheruvu, Sivaram, & **Jeffrey Ziegler**. ”How Much Influence Do Opinion-Writer
 <details><summary> Abstract </summary>
 <br/><p>
 Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
-</p><br/>
-</details>
-<br/>
-
-Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Conditionally Accepted at Clinical Child and Family Psychology Review*.
-
-<table align="left">
-  <tr>
-	<td><a href="https://www.dropbox.com/s/6b9v0gmqcotudt7/CCFPR.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Numerous cross-sectional studies confirm the long theorized association between mothers’ depression and lower parenting self-efficacy (PSE) beliefs.  However, cross-sectional studies leave unanswered the direction of this association: Does depression predict PSE? Does PSE predict depression? Are both true? Does the strength of the association between depression and PSE, regardless of the direction, generalize across participant characteristics and study design features? How stable is PSE over time? And how effective are interventions at enhancing PSE? To answer these questions, we conducted a meta-analytic review of longitudinal studies. With 35 eligible studies (22,698 participants), we found support for both models: there was a significant pooled effect of both depression on PSE and of PSE on depression, with nearly identical effect sizes (d = -0.21 and -0.22 respectively). The association was stronger in samples with mothers’ younger average age and studies that measured PSE among mothers relative to during pregnancy. We found a medium degree of stability in the index of PSE, d = 0.60. Finally, the estimated pooled effect size between being in an intervention group versus control group and PSE was 0.505. Overall, support for bidirectional associations between depression and PSE in mothers, along with our findings of the stability of PSE over time yet strong evidence for being modifiable with intervention, suggest the importance of continuing to develop, test, and disseminate interventions to enhance PSE. We interpret these findings in the context of both depression and PSE having been found to have serious consequences for child outcomes and maladaptive parenting.
 </p><br/>
 </details>
 <br/>
