@@ -49,7 +49,24 @@ Numerous cross-sectional studies confirm the long-theorized association between 
 Participants that complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or instructional closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text that respondents provide in an open-ended manipulation check. There are multiple benefits to this approach. First, it provides a continuous measure of attention, which allows for greater variation between respondents. Second, it reduces the reliance on subjective, paid humans to analyze open-ended responses.  Last, I outline how to diagnose the impact of inattentive workers on the overall results, including how to assess the average treatment effect of those respondents that likely received the treatment. I provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
 </p><br/>
 </details>
-<br/>	
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{ziegler2022,
+  title={A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks},
+  author={Ziegler, Jeffrey},
+  journal={Political Analysis},
+  volume={30},
+  number={2},
+  pages={289--297},
+  year={2022},
+  publisher={Cambridge University Press}
+}
+</pre>
+</p><br/>
+</details>
+<br/>
 
 Carlson, David & **Ziegler, Jeffrey** (2021). ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
 Violations”. *Uluslararası İlişkiler - International Relations*. 18(72), 37-49.
@@ -65,6 +82,22 @@ Violations”. *Uluslararası İlişkiler - International Relations*. 18(72), 37
 <details><summary> Abstract </summary>
 <br/><p>
 Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
+</p><br/>
+</details>
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{carlsonZiegler2021,
+  title={The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty Violations},
+  author={Carlson, David and Ziegler, Jeffrey},
+  journal={Uluslararas{\i} {\.I}li{\c{s}}kiler Dergisi},
+  volume={18},
+  number={72},
+  pages={37--49},
+  year={2021}
+}
+</pre>
 </p><br/>
 </details>
 <br/>
@@ -92,7 +125,7 @@ One of the more important innovations in the study of how citizens assess the U.
 <p>
 <br/>
 <pre>
-@article{bibGibsonPereiraZiegler2017,
+@article{gibsonPereiraZiegler2017,
   title={Updating Supreme Court Legitimacy: Testing the “Rule, Learn, Update” Model of Political Communication},
   author={Gibson, James L. and Pereira, Miguel M. and Ziegler, Jeffrey},
   journal={American Politics Research},
@@ -172,10 +205,13 @@ Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, 
 <details><summary> Abstract </summary>
 <br/><p>
 Introduction: In the context of clinical care, discussions concerning culture are important for providing inclusive and culturally responsive evidence-based treatments. The present study contributes to training and educating anti-racist psychologists by exploring a teaching strategy aimed at actively changing behaviors that may hinder rapport and therapeutic efficacy for clients of underrepresented and marginalized backgrounds. Drawing upon an extensively researched clinical intervention for the treatment of anxiety and fear—exposure therapy—the study explored the feasibility and acceptability of an exposure-based teaching strategy that intervenes on anxiety and avoidance behavior around multicultural discussions with clients. <br/>
+<br/>	
 
 Methods: A 2-arm randomized controlled pilot study was conducted with graduate trainees in clinical psychology or counseling to compare an interactive exposure-based workshop (IEB; n = 19) involving repeated simulated client interactions focused on cultural factors to a training-as-usual workshop (TAU; n = 16) involving an instructional video on the topic. Pre- and post-intervention simulated client interactions focusing on multicultural dialogue were used to assess the specific variables of interest. Trainee feedback was obtained post-intervention. <br/>
+<br/>	
 
 Results: IEB workshop attendees rated the workshop as more useful and reported they were more likely to recommend the workshop to a peer as compared TAU workshop attendees. Trainee feedback highlights the utility and desire for practice opportunities with client actors and opportunities for constructive feedback. <br/>
+<br/>	
 	
 Conclusions: Findings provide initial support for the acceptability and feasibility of an exposure-based clinical training to challenge avoidance behaviors and increase engagement in discussions around cultural factors with clients. 
 </p><br/>
