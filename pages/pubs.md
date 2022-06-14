@@ -171,20 +171,7 @@ Are leaders responsive to their followers’ political preferences over time eve
 
 
 Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Database for the Comparative Study of Judicial Review”.
-
-
-<table align="left">
-  <tr>
-	<td><a href="https://www.dropbox.com/s/76b2az59tm2p75l/BJPS_Final.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-A growing theoretical literature identifies how the process of constitutional review shapes judicial decision-making, legislative behavior, and even the constitutionality of legislation and executive actions. However, the empirical interrogation of these theoretical arguments is limited by the absence of a common protocol for coding constitutional review decisions across courts and time. We introduce such a coding protocol and database (CompLaw) of rulings by 42 constitutional courts. To illustrate the value of CompLaw, we examine a heretofore untested empirical implication about how review timing relates to rulings of unconstitutionality (Ward and Gabel, 2019). We first examine this relationship with a set of national constitutional courts in one year. We then conduct a more nuanced analysis of rulings by the French Constitutional Council over a 13-year period. Our data analysis highlights the benefits of CompLaw for scholars of judicial review.
-</p><br/>
-</details>
 <br/>
-
 
 Cheruvu, Sivaram, & **Jeffrey Ziegler**. ”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions”.
 
