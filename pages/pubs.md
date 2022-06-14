@@ -34,7 +34,7 @@ Numerous cross-sectional studies confirm the long-theorized association between 
 </details>
 <br/>
 
-**Ziegler, Jeffrey** (2022). ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Political Analysis*. 30(2), 289-297.
+**Ziegler, Jeffrey** (2022). ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Political Analysis* 30(2), 289-297.
 
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/political-analysis/article/abs/textasdata-approach-for-using-openended-responses-as-manipulation-checks/C0A94C4CC5D0ECC72E8A670050D76ED4#article" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -69,7 +69,7 @@ Participants that complete online surveys and experiments may be inattentive, wh
 <br/>
 
 Carlson, David & **Ziegler, Jeffrey** (2021). ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
-Violations”. *Uluslararası İlişkiler - International Relations*. 18(72), 37-49.
+Violations”. *Uluslararası İlişkiler - International Relations* 18(72), 37-49.
 
 <table align="left">
   <tr><td><a href="https://www.uidergisi.com.tr/yazilar/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -103,7 +103,7 @@ Democracies are thought to violate treaties less frequently than non-democracies
 <br/>
 
 Gibson, James L., Miguel M. Pereira, & **Jeffrey Ziegler** (2017). ”Updating Supreme Court Legitimacy: Testing
-the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research*. 45(6), 980-1002.
+the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research* 45(6), 980-1002.
 
 <table align="left">
   <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
