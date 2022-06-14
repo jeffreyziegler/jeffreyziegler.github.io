@@ -218,12 +218,15 @@ Conclusions: Findings provide initial support for the acceptability and feasibil
 </details>
 <br/>
 
-
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
 <br/>
-
-
+<details><summary> Abstract </summary>
+<br/><p>
+Conjoint experiments are used to mimic political decisions that ordinary people face, such as selecting news stories or voting for public officials. Conjoint designs, however, do not always mirror the real-world decisions that individuals make because respondents are forced to select only one of the available options and cannot abstain. First, we show through formal examples and simulations that allowing respondents to abstain can yield different average marginal component effects (AMCEs) depending on the (1) relationship between respondents' unwillingness to select one of the alternatives and their existing preferences, and (2) how many participants would abstain if given the choice. Second, we replicate two conjoint experiments and demonstrate empirically how omitting a realistic abstention option may lead to under- and over-estimation of the AMCEs. We provide advice to help practitioners understand how forcing respondents to express a preference when none exists may impact the results of their conjoint experiment. 
+</p><br/>
+</details>
 <br/>
+
 ### <a name="grants"></a>Grants and Awards
 
 - Arts and Social Sciences Benefactions Fund, Trinity College Dublin (2022)
