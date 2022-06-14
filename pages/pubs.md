@@ -216,6 +216,8 @@ Conjoint experiments are used to mimic political decisions that ordinary people 
 
 ### <a name="grants"></a>Grants and Awards
 
+- TRiSS Academic Research Fellowship, Trinity College Dublin (2022)
+
 - Arts and Social Sciences Benefactions Fund, Trinity College Dublin (2022)
 
 - Graduate Research Seed Grant, Washington University in St. Louis, Department of Political Science (2018)
