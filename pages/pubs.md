@@ -206,10 +206,14 @@ Conclusions: Findings provide initial support for the acceptability and feasibil
 <br/>
 
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
-<br/>
+<table align="left">
+  <tr>
+	<td><a href="https://osf.io/preprints/socarxiv/4ws7m/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
 <details><summary> Abstract </summary>
 <br/><p>
-Conjoint experiments are used to mimic common political choices that ordinary people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decisions that individuals make because respondents are forced to select only one of the available options and cannot abstain. First, we illustrate theoretically how including an abstention option can produce different average marginal component effects (AMCEs) relative to a forced-choice outcome. This difference depends on the (1) relationship between respondents’ unwillingness to select profiles which do not include their preferred attribute-levels, and (2) how many participants would abstain if possible. Second, we replicate two conjoint experiments and demonstrate empirically how omitting a realistic abstention option may lead to different estimates of the AMCEs. We conclude with advice to help practitioners understand how forcing respondents to express a preference when none exists may affect conclusions drawn from conjoint experiments.
+Conjoint experiments are used to mimic political choices that people often face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decisions that individuals make because respondents are typically forced to select one of the available options and cannot abstain. First, we illustrate theoretically how including an abstention option can produce different average marginal component effects (AMCEs) relative to a forced-choice outcome. This difference depends on the relationship between 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) the preference orderings of those that would abstain if possible. Unfortunately, researchers using forced-choice outcomes cannot know how respondents’ preference for abstention will impact the direction or magnitude of the AMCEs. Second, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option may lead to substantively different estimates of the AMCEs. We conclude with advice to help practitioners understand how forcing respondents to express a preference when none exists may affect conclusions drawn from conjoint experiments.
 </p><br/>
 </details>
 <br/>
