@@ -155,21 +155,6 @@ Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Respons
 <br/>
 ### <a name="workingPapers"></a>Working Papers
 
-**Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church”.
-
-<table align="left">
-  <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Are leaders responsive to their followers’ political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that unelected leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its unelected leader, the pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics’ concerns. Second, I conduct survey experiments using nationally representative samples of Catholics in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that even in organizations without elections, leaders reaffirm members’ political interests because followers support organizations that are responsive.
-</p><br/>
-</details>
-<br/>
-
-
 Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Database for the Comparative Study of Judicial Review”.
 <br/>
 
