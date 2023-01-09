@@ -19,7 +19,7 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos. ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Clinical Child and Family Psychology Review* 25(3), 471-499.
+Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos (2022). ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Clinical Child and Family Psychology Review* 25(3), 471-499.
 
 <table align="left">
   <tr><td><a href="https://link.springer.com/article/10.1007/s10567-022-00398-0" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
