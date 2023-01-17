@@ -32,6 +32,23 @@ Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ce
 Numerous cross-sectional studies confirm the long-theorized association between mothers’ depression and lower parenting self-efficacy (PSE) beliefs. However, cross-sectional studies leave unanswered the direction of this association: Does depression predict PSE? Does PSE predict depression? Are both true? Does the strength of the association between depression and PSE, regardless of the direction, generalize across participant characteristics and study design features? How stable is PSE over time? And how effective are interventions at enhancing PSE? To answer these questions, we conducted a meta-analytic review of longitudinal studies. With 35 eligible studies (22,698 participants), we found support for both models: there was a significant pooled effect of both depression on PSE and of PSE on depression, with nearly identical effect sizes (d = −0.21 and −0.22, respectively). The association was stronger in samples with mothers’ younger average age and studies that measured PSE among mothers relative to during pregnancy. We found a medium degree of stability in the index of PSE, d = 0.60. Finally, the estimated pooled effect size between being in an intervention group versus control group and PSE was 0.505. Overall, we found support for (1) bidirectional associations between depression and PSE in mothers, (2) the stability of PSE over time, and (3) the strength of the relationship between PSE and depression with intervention. These results suggest the importance of continuing to develop, test, and disseminate interventions to enhance PSE. We interpret these findings in the context of both depression and low PSE having serious consequences for child outcomes and maladaptive parenting.
 </p><br/>
 </details>
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{goodmanSimonMcCarthyZieglerCeballos2022,
+  title={Testing Models of Associations Between Depression and Parenting Self-efficacy in Mothers: A Meta-analytic Review},
+  author={Goodman, Sherryl H and Simon, Hannah and McCarthy, Luke and Ziegler, Jeffrey and Ceballos, Alex},
+  journal={Clinical Child and Family Psychology Review},
+  volume={25},
+  number={3},
+  pages={471--499},
+  year={2022},
+  publisher={Springer}
+}
+</pre>
+</p><br/>
+</details>
 <br/>
 
 **Ziegler, Jeffrey** (2022). ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Political Analysis* 30(2), 289-297.
