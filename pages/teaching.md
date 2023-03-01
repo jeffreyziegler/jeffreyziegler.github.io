@@ -7,20 +7,18 @@ description: Jeff Ziegler's teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#instructor">Instructor</a></li>
-            <li><a href="#TA">Teaching assistant</a></li>
+            <li><a href="#full_courses">Courses</a></li>
+            <li><a href="#short_courses">Short courses</a></li>
         </ul>
     </div>
 </div>
-### <a name="instructor"></a>Instructor
+### <a name="full_courses"></a>Courses
 
 - PG Applied Statistical Analysis II/PhD Quantitative Methods II (Spring 2022-23; Trinity College Dublin)
 
 - PG Applied Statistical Analysis I/PhD Quantitative Methods I (Fall 2021-22; Trinity College Dublin)
 
 - PhD Research Design (Fall 2022; Trinity College Dublin)
-
-- CPD R for Social Data Science (Fall 2022; Trinity College Dublin)
 
 - MSc Research Design (Fall 2021; Trinity College Dublin)
 
@@ -32,21 +30,9 @@ description: Jeff Ziegler's teaching
 
 - Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
 
-### <a name="TA"></a>Teaching Assistant
+### <a name="short_courses"></a>Short Courses
 
-- Global Justice (Spring 2018; Instructor: Frank Lovett)
-
-- History of Political Thought I: Justice, Virtue, and the Soul (Spring 2018; Instructor: Frank Lovett)
-
-- Introduction to International Politics (Spring 2017, Fall 2017; Instructor: Michael Bechtel)
-
-- Approaches to Comparative Politics, graduate level (Fall 2016; Instructor: Matthew Gabel)
-
-- Research Design and Methods, graduate level (Fall 2016); Instructor: Matthew Gabel)
-
-- Ethnic Conflict: Causes and Remedies (Spring 2015; Instructor: Sunita Parikh)
-
-- Law, Politics, and Society (Fall 2015; Instructor: James L. Gibson)
+- CPD R for Social Data Science (Fall 2022; Trinity College Dublin)
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
