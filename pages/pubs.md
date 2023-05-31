@@ -172,6 +172,15 @@ Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Respons
 <br/>
 ### <a name="workingPapers"></a>Working Papers
 
+Carlson, David & **Jeffrey Ziegler**. ”Modeling Without Conditional Independence: Gaussian Process Regression for Time-Series Cross-Sectional”.
+
+<details><summary> Abstract </summary>
+<br/><p>
+Social science researchers frequently need to analyze time-series cross-sectional data. There are well-known problems these analyses encounter that make inferences particularly difficult: serial correlation in the variables of interest across time, between-subject heterogeneity in baselines and temporal trends, unbalanced panels, and more. In these circumstances, both parameter estimates and their standard errors can be misleading and biased when inappropriately modeled. We offer a new modeling strategy, appropriate even when the panel is unbalanced, utilizing Gaussian process regression (GPR). We argue it surpasses extant alternatives on many criteria across a range of commonly encountered situations. GPR offers the simplicity of standard inferential techniques while handling complex underlying data-generation. It is therefore applicable to TSCS analyses where we would doubt the assumptions of conditional independence, and when we do not know or do not want to assume a specific error structure associated with this non-independence.
+</p><br/>
+</details>
+<br/>
+
 Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”.
 
 <table align="left">
@@ -198,6 +207,9 @@ Cheruvu, Sivaram, & **Jeffrey Ziegler**. ”How Much Influence Do Opinion-Writer
 Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
 </p><br/>
 </details>
+<br/>
+
+Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
 <br/>
 
 Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy".
@@ -227,6 +239,19 @@ Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint E
 <details><summary> Abstract </summary>
 <br/><p>
 Conjoint experiments are used to mimic political choices that people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decision-making contexts that individuals engage in because respondents are typically forced to select one of the available options. We illustrate theoretically how offering respondents an abstention option can produce different average marginal component effects (AMCEs) relative to a forced- choice outcome. This difference depends on 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) those respondents’ preference orderings. Then, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option can lead to substantively different estimates of the AMCEs.
+</p><br/>
+</details>
+<br/>
+
+**Jeffrey Ziegler**. ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”.
+<table align="left">
+  <tr>
+	<td><a href="https://osf.io/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Are centralized leaders of religious organizations responsive to their followers' political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that such leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its centralized leader, the Pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics' overall political concerns. Second, I conduct survey experiments in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that in religious organizations, centralized leaders reaffirm members' political interests because followers support religious organizations that are politically responsive.
 </p><br/>
 </details>
 <br/>
