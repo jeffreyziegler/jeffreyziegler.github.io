@@ -24,7 +24,7 @@ This site mainly includes info about my research and teaching. Feel free to <a h
 </table>
 
 </div>
-
+<br/><br/>
 <div class="span4">
 		<img src="../assets/pics/homepage.jpeg" alt="hi" class="inline"/>
      		</div>
