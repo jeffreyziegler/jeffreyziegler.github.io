@@ -238,7 +238,7 @@ Conclusions: Findings provide initial support for the acceptability and feasibil
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
 <table align="left">
   <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/4ws7m/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+	<td><a href="https://osf.io/preprints/socarxiv/4ws7m/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Paper</a></td> <td><a href="https://www.dropbox.com/scl/fi/zixst5870qfdkcckqb9nx/conjoint_nonresponse_printable.pdf?rlkey=pangnk0pewgs9okht3kwl49gy&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Slides</a></td> </tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
