@@ -7,7 +7,7 @@ title: Welcome!
 	<div class="row-fluid">
 		<div class="span6">
 	
-Currently, I’m an Assistant Professor in Political Science and Data Science at Trinity College Dublin. I also serve as the Programme Director of <a href="https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/">Applied Social Data Science</a>. Previously, I was a Post-Doctoral Fellow in the Institute for Quantitative Theory and Methods at Emory University. I received my PhD in Political Science from Washington University in St. Louis, where I was also a Graduate Affiliate of the John C. Danforth Center on Religion and Politics. <br/><br/>
+Currently, I’m an Assistant Professor in Political Science and Data Science at <a href="https://www.tcd.ie/Political_Science/">Trinity College Dublin</a>. I also serve as the Director of <a href="https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/">Applied Social Data Science</a> Programme. Previously, I was a Post-Doctoral Fellow in the Institute for Quantitative Theory and Methods at Emory University. I received my PhD in Political Science from Washington University in St. Louis, where I was also a Graduate Affiliate of the John C. Danforth Center on Religion and Politics. <br/><br/>
 
 In my research, I extend quantitative methods to the social sciences, focusing on multi-media data (text, audio, images) and experiments. I apply these techniques to study questions related to political and psychological behavior.<br/><br/>
 
