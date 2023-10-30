@@ -19,6 +19,24 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
+Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Accepted at Training and Education in Professional Psychology*.
+<br/>
+<details><summary> Abstract </summary>
+<br/><p>
+Introduction: In the context of clinical care, discussions concerning culture are important for providing inclusive and culturally responsive evidence-based treatments. The present study contributes to training and educating anti-racist psychologists by exploring a teaching strategy aimed at actively changing behaviors that may hinder rapport and therapeutic efficacy for clients of underrepresented and marginalized backgrounds. Drawing upon an extensively researched clinical intervention for the treatment of anxiety and fear—exposure therapy—the study explored the feasibility and acceptability of an exposure-based teaching strategy that intervenes on anxiety and avoidance behavior around multicultural discussions with clients. <br/>
+<br/>	
+
+Methods: A 2-arm randomized controlled pilot study was conducted with graduate trainees in clinical psychology or counseling to compare an interactive exposure-based workshop (IEB; n = 19) involving repeated simulated client interactions focused on cultural factors to a training-as-usual workshop (TAU; n = 16) involving an instructional video on the topic. Pre- and post-intervention simulated client interactions focusing on multicultural dialogue were used to assess the specific variables of interest. Trainee feedback was obtained post-intervention. <br/>
+<br/>	
+
+Results: IEB workshop attendees rated the workshop as more useful and reported they were more likely to recommend the workshop to a peer as compared TAU workshop attendees. Trainee feedback highlights the utility and desire for practice opportunities with client actors and opportunities for constructive feedback. <br/>
+<br/>	
+	
+Conclusions: Findings provide initial support for the acceptability and feasibility of an exposure-based clinical training to challenge avoidance behaviors and increase engagement in discussions around cultural factors with clients. 
+</p><br/>
+</details>
+<br/>
+
 Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos (2022). ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Clinical Child and Family Psychology Review* 25(3), 471-499.
 
 <table align="left">
@@ -216,24 +234,6 @@ Research assessing judges' political preferences typically focuses on courts tha
 
 Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
 <br/><br/>
-
-Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy".
-<br/>
-<details><summary> Abstract </summary>
-<br/><p>
-Introduction: In the context of clinical care, discussions concerning culture are important for providing inclusive and culturally responsive evidence-based treatments. The present study contributes to training and educating anti-racist psychologists by exploring a teaching strategy aimed at actively changing behaviors that may hinder rapport and therapeutic efficacy for clients of underrepresented and marginalized backgrounds. Drawing upon an extensively researched clinical intervention for the treatment of anxiety and fear—exposure therapy—the study explored the feasibility and acceptability of an exposure-based teaching strategy that intervenes on anxiety and avoidance behavior around multicultural discussions with clients. <br/>
-<br/>	
-
-Methods: A 2-arm randomized controlled pilot study was conducted with graduate trainees in clinical psychology or counseling to compare an interactive exposure-based workshop (IEB; n = 19) involving repeated simulated client interactions focused on cultural factors to a training-as-usual workshop (TAU; n = 16) involving an instructional video on the topic. Pre- and post-intervention simulated client interactions focusing on multicultural dialogue were used to assess the specific variables of interest. Trainee feedback was obtained post-intervention. <br/>
-<br/>	
-
-Results: IEB workshop attendees rated the workshop as more useful and reported they were more likely to recommend the workshop to a peer as compared TAU workshop attendees. Trainee feedback highlights the utility and desire for practice opportunities with client actors and opportunities for constructive feedback. <br/>
-<br/>	
-	
-Conclusions: Findings provide initial support for the acceptability and feasibility of an exposure-based clinical training to challenge avoidance behaviors and increase engagement in discussions around cultural factors with clients. 
-</p><br/>
-</details>
-<br/>
 
 Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
 <table align="left">
