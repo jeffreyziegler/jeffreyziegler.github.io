@@ -22,7 +22,7 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Forthcoming at Training and Education in Professional Psychology*.
 
 <table align="left">
-  <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+  <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td></tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
