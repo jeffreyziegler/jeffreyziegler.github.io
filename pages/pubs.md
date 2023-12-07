@@ -19,8 +19,12 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Accepted at Training and Education in Professional Psychology*.
-<br/>
+Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Forthcoming at Training and Education in Professional Psychology*.
+
+<table align="left">
+  <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+</table><br/>
+
 <details><summary> Abstract </summary>
 <br/><p>
 Introduction: In the context of clinical care, discussions concerning culture are important for providing inclusive and culturally responsive evidence-based treatments. The present study contributes to training and educating anti-racist psychologists by exploring a teaching strategy aimed at actively changing behaviors that may hinder rapport and therapeutic efficacy for clients of underrepresented and marginalized backgrounds. Drawing upon an extensively researched clinical intervention for the treatment of anxiety and fear—exposure therapy—the study explored the feasibility and acceptability of an exposure-based teaching strategy that intervenes on anxiety and avoidance behavior around multicultural discussions with clients. <br/>
