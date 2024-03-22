@@ -19,6 +19,20 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
+
+**Jeffrey Ziegler**. ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”. *Conditionally Accepted at Politics and Religion*.
+<table align="left">
+  <tr>
+	<td><a href="https://osf.io/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Are centralized leaders of religious organizations responsive to their followers' political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that such leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its centralized leader, the Pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics' overall political concerns. Second, I conduct survey experiments in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that in religious organizations, centralized leaders reaffirm members' political interests because followers support religious organizations that are politically responsive.
+</p><br/>
+</details>
+<br/>
+
 Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Forthcoming at Training and Education in Professional Psychology*.
 
 <table align="left">
@@ -250,19 +264,6 @@ Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint E
 <details><summary> Abstract </summary>
 <br/><p>
 Conjoint experiments are used to mimic political choices that people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decision-making contexts that individuals engage in because respondents are typically forced to select one of the available options. We illustrate theoretically how offering respondents an abstention option can produce different average marginal component effects (AMCEs) relative to a forced- choice outcome. This difference depends on 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) those respondents’ preference orderings. Then, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option can lead to substantively different estimates of the AMCEs.
-</p><br/>
-</details>
-<br/>
-
-**Jeffrey Ziegler**. ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”.
-<table align="left">
-  <tr>
-	<td><a href="https://osf.io/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Are centralized leaders of religious organizations responsive to their followers' political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that such leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its centralized leader, the Pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics' overall political concerns. Second, I conduct survey experiments in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that in religious organizations, centralized leaders reaffirm members' political interests because followers support religious organizations that are politically responsive.
 </p><br/>
 </details>
 <br/>
