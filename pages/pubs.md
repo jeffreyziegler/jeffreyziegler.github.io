@@ -270,6 +270,8 @@ Conjoint experiments are used to mimic political choices that people face, such 
 
 ### <a name="grants"></a>Grants and Awards
 
+- Visiting Professorships and Fellowships Benefaction Fund, Trinity College Dublin (2024)
+  
 - TRiSS Academic Research Fellowship, Trinity College Dublin (2022)
 
 - Arts and Social Sciences Benefactions Fund, Trinity College Dublin (2022)
