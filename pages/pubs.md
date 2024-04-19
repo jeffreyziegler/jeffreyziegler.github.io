@@ -20,7 +20,7 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 ### <a name="publications"></a>Publications
 
 
-**Jeffrey Ziegler**. ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”. *Conditionally Accepted at Politics and Religion*.
+**Jeffrey Ziegler**. ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”. *Accepted at Politics and Religion*.
 <table align="left">
   <tr>
 	<td><a href="https://osf.io/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
