@@ -33,7 +33,7 @@ Are centralized leaders of religious organizations responsive to their followers
 </details>
 <br/>
 
-Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor. "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Forthcoming at Training and Education in Professional Psychology*.
+Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor (2024). "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Training and Education in Professional Psychology* 18(1), 87–97.
 
 <table align="left">
   <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td></tr>
