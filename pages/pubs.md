@@ -8,8 +8,8 @@ description: Jeffrey Ziegler's research
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#publications">Publications</a></li>
+		<li><a href="#workingPapers">Working papers</a></li>
 	    <li><a href="#software">Software</a></li>
-            <li><a href="#workingPapers">Working papers</a></li>
             <li><a href="#grants">Grants and Awards</a></li>
         </ul>
     </div>
@@ -191,21 +191,7 @@ One of the more important innovations in the study of how citizens assess the U.
 </p><br/>
 </details>
 <br/>
-### <a name="software"></a>Software
 
-**openEnded**
-
-<table align="left">
-  <tr>
-	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> GitHub Page for Source Code</a></td>   </tr>
-</table><br/>
-
-<details><summary> Description </summary>
-<br/><p>
-Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
-</p><br/>
-</details>
-<br/>
 ### <a name="workingPapers"></a>Working Papers
 
 Carlson, David & **Jeffrey Ziegler**. ”Modeling Without Conditional Independence: Gaussian Process Regression for Time-Series Cross-Sectional”.
@@ -264,6 +250,22 @@ Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint E
 <details><summary> Abstract </summary>
 <br/><p>
 Conjoint experiments are used to mimic political choices that people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decision-making contexts that individuals engage in because respondents are typically forced to select one of the available options. We illustrate theoretically how offering respondents an abstention option can produce different average marginal component effects (AMCEs) relative to a forced- choice outcome. This difference depends on 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) those respondents’ preference orderings. Then, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option can lead to substantively different estimates of the AMCEs.
+</p><br/>
+</details>
+<br/>
+
+### <a name="software"></a>Software
+
+**openEnded**
+
+<table align="left">
+  <tr>
+	<td><a href="https://github.com/jeffreyziegler/openEnded" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> GitHub Page for Source Code</a></td>   </tr>
+</table><br/>
+
+<details><summary> Description </summary>
+<br/><p>
+Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks" to help researchers analyze manipulation checks that employ open-ended responses.
 </p><br/>
 </details>
 <br/>
