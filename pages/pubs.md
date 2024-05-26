@@ -31,6 +31,20 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 Are centralized leaders of religious organizations responsive to their followers' political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that such leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its centralized leader, the Pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics' overall political concerns. Second, I conduct survey experiments in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that in religious organizations, centralized leaders reaffirm members' political interests because followers support religious organizations that are politically responsive.
 </p><br/>
 </details>
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{ziegler2024,
+  title={Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church},
+  author={Ziegler, Jeffrey},
+  journal={Politics and Religion},
+  year={2024},
+  publisher={Cambridge University Press}
+}
+</pre>
+</p><br/>
+</details>
 <br/>
 
 Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Forthcoming at Journal of Law and Courts*.
@@ -44,6 +58,21 @@ Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey
 <details><summary> Abstract </summary>
 <br/><p>
 A growing theoretical literature identifies how the process of constitutional review shapes judicial decision-making, legislative behavior, and even the constitutionality of legislation and executive actions. However, the empirical interrogation of these theoretical arguments is limited by the absence of a common protocol for coding constitutional review decisions across courts and time. We introduce such a coding protocol and database (CompLaw) of rulings by 42 constitutional courts. To illustrate the value of CompLaw, we examine a heretofore untested empirical implication about how review timing relates to rulings of unconstitutionality (Ward and Gabel 2019). First, we conduct a nuanced analysis of rulings by the French Constitutional Council over a 13-year period. We then examine the relationship between review timing and strike rates with a set of national constitutional courts in one year. Our data analysis highlights the benefits and flexibility of the CompLaw coding protocol for scholars of judicial review.
+</p><br/>
+</details>
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{gabelCarrubbaHelmkeMartinStatonWardZiegler2024,
+  title={CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review},
+  author={Gabel, Matthew and Carrubba, Clifford J and Helmke, Gretchen and Martin, Andrew D and Staton, Jeffrey K and Ward, Dalston and Ziegler, Jeffrey},
+  journal={Journal of Law and Courts},
+  pages={1--27},
+  year={2024},
+  publisher={Cambridge University Press}
+}
+</pre>
 </p><br/>
 </details>
 <br/>
@@ -66,6 +95,23 @@ Results: IEB workshop attendees rated the workshop as more useful and reported t
 <br/>	
 	
 Conclusions: Findings provide initial support for the acceptability and feasibility of an exposure-based clinical training to challenge avoidance behaviors and increase engagement in discussions around cultural factors with clients. 
+</p><br/>
+</details>
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{jacquartPinkstonZieglerSbarraOConnor2024,
+   title={Improving culturally responsive clinical training: Exploring the acceptability and feasibility of an exposure-based strategy.},
+  author={Jacquart, Jolene and Wardle-Pinkston, Sophie and Ziegler, Jeffrey and Sbarra, David A and O'Connor, Mary-Frances},
+  journal={Training and Education in Professional Psychology},
+  year={2024},
+ volume={18},
+  number={1},
+ pages={87-97},
+  publisher={Educational Publishing Foundation}
+}
+</pre>
 </p><br/>
 </details>
 <br/>
