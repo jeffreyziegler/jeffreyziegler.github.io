@@ -36,7 +36,7 @@ Are centralized leaders of religious organizations responsive to their followers
 Carrubba, Clifford J., Matthew Gabel, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Forthcoming at Journal of Law and Courts*.
 
 <table align="left">
-  <tr><td><a href="[https://link.springer.com/article/10.1007/s10567-022-00398-0](https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821)" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+  <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/s/wn3xwdympvypdsh/CompLaw_2023_01_12.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
 </table><br/>
