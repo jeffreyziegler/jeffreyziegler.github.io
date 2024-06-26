@@ -187,7 +187,7 @@ Carlson, David & **Jeffrey Ziegler** (2021). ”The Role of Democratic Governanc
 Violations”. *Uluslararası İlişkiler - International Relations* 18(72), 37-49.
 
 <table align="left">
-  <tr><td><a href="https://www.uidergisi.com.tr/yazilar/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+  <tr><td><a href="https://www.ir-journal.com/issues/volume-18-number-072-2022/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	  <td><a href="https://osf.io/preprints/socarxiv/b7xp2/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
