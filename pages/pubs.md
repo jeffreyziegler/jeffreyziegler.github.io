@@ -302,6 +302,21 @@ Conjoint experiments are used to mimic political choices that people face, such 
 </details>
 <br/>
 
+Stone, Andrew R. & **Jeffrey Ziegler**. ”How Do the Audio and Video from Public Hearings Impact High Courts’ Legitimacy?”.
+<table align="left">
+  <tr>
+	<td><a href="https://www.dropbox.com/scl/fi/s4j242kqt0bs07hp5gjsl/wd_Aug_24.pdf?rlkey=n0u2zl9bm6f59m0it8f8qvhr4&st=y7toqwpc&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Paper</a></td> 
+	  	  <td></td>	  <td></td>  <td></td>
+	  <td><a href="https://www.dropbox.com/scl/fi/f3za00gu58oxy90qx78kg/audioCourtHearings.pdf?rlkey=a1yhcm2ailnvkya85hq6tluu6&st=26lee8cu&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Slides</a></td> </tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Research shows that judges express their underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio recordings are more nor less detrimental to courts’ legitimacy than written transcripts. First, using a nationally representative sample of Americans, we show that when individuals read the written transcripts from a case they are not more likely to grant the U.S. Supreme Court legitimacy than individuals that hear the same dialogue. Second, we show among a nationally representative sample in the UK that Brits are not more or less likely to believe the nation’s high court is legitimate when they read, hear, or watch the proceedings. We highlight that the results are not driven by the emotions that judges convey, the perceived political bias of judges’, or participants’ political preferences. The findings have important implications for how national high courts communicate their decisions.
+</p><br/>
+</details>
+<br/>
+
 ### <a name="software"></a>Software
 
 **openEnded**
