@@ -19,6 +19,20 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
+Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”. *Forthcoming at Research and Politics*.
+<table align="left">
+  <tr>
+	<td><a href="https://osf.io/preprints/socarxiv/4ws7m/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Paper</a></td> 
+	  	  <td></td>	  <td></td>  <td></td>
+	  <td><a href="https://www.dropbox.com/scl/fi/zixst5870qfdkcckqb9nx/conjoint_nonresponse_printable.pdf?rlkey=pangnk0pewgs9okht3kwl49gy&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Slides</a></td> </tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Conjoint experiments are often used to mimic political choices that people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decision-making contexts that individuals engage in because respondents are typically forced to select one of the available options. Theoretically, we illustrate how offering respondents an abstention option can produce average marginal component effects (AMCEs) of differing signs and magnitudes relative to a forced-choice outcome. This difference depends on 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) those respondents’ preference orderings. Empirically, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option could lead to different AMCE estimates.
+</p><br/>
+</details>
+<br/>
 
 **Jeffrey Ziegler**. ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”. *Forthcoming at Politics and Religion*.
 <table align="left">
@@ -286,21 +300,6 @@ Research assessing judges' political preferences typically focuses on courts tha
 
 Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
 <br/><br/>
-
-Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”.
-<table align="left">
-  <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/4ws7m/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Paper</a></td> 
-	  	  <td></td>	  <td></td>  <td></td>
-	  <td><a href="https://www.dropbox.com/scl/fi/zixst5870qfdkcckqb9nx/conjoint_nonresponse_printable.pdf?rlkey=pangnk0pewgs9okht3kwl49gy&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Slides</a></td> </tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Conjoint experiments are used to mimic political choices that people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decision-making contexts that individuals engage in because respondents are typically forced to select one of the available options. We illustrate theoretically how offering respondents an abstention option can produce different average marginal component effects (AMCEs) relative to a forced- choice outcome. This difference depends on 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) those respondents’ preference orderings. Then, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option can lead to substantively different estimates of the AMCEs.
-</p><br/>
-</details>
-<br/>
 
 Stone, Andrew R. & **Jeffrey Ziegler**. ”How Do the Audio and Video from Public Hearings Impact High Courts’ Legitimacy?”.
 <table align="left">
