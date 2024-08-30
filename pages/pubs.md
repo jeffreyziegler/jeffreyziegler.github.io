@@ -19,7 +19,7 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”. *Forthcoming at Research and Politics*.
+Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”. *Accepted at Research and Politics*.
 <table align="left">
   <tr>
 	<td><a href="https://osf.io/preprints/socarxiv/4ws7m/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Paper</a></td> 
