@@ -8,7 +8,7 @@ title: Contact me
     <div class="row-fluid">
     
         <div class="span4">
-	<img src="../assets/pics/headshot_fall24.jpeg" alt="hi" class="inline"/>
+	<img src="../assets/pics/homepage.jpeg" alt="hi" class="inline"/>
         </div>
         <div class="span5">
             Jeff Ziegler<br/>
