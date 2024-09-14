@@ -14,7 +14,7 @@ description: Jeff Ziegler's teaching
 </div>
 ### <a name="full_courses"></a>Courses
 
-- PG Applied Statistical Analysis I/PhD Quantitative Methods I (Fall 2021, 2022, 2023; Trinity College Dublin)
+- PG Applied Statistical Analysis I/PhD Quantitative Methods I (Fall 2021, 2022, 2023, 2024; Trinity College Dublin)
 
 - PG Applied Statistical Analysis II/PhD Quantitative Methods II (Spring 2022, 2023, 2024; Trinity College Dublin)
   
