@@ -34,34 +34,6 @@ Conjoint experiments are often used to mimic political choices that people face,
 </details>
 <br/>
 
-**Jeffrey Ziegler**. ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”. *Forthcoming at Politics and Religion*.
-<table align="left">
-  <tr><td><a href="https://www.cambridge.org/core/journals/politics-and-religion/article/political-responsiveness-and-centralized-religious-leaders-lessons-from-the-catholic-church/7816CEDA334841B944CCCB829A626CCC" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
-	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://osf.io/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Are centralized leaders of religious organizations responsive to their followers' political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that such leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its centralized leader, the Pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics' overall political concerns. Second, I conduct survey experiments in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that in religious organizations, centralized leaders reaffirm members' political interests because followers support religious organizations that are politically responsive.
-</p><br/>
-</details>
-<details><summary> Citation </summary>
-<p>
-<br/>
-<pre>
-@article{ziegler2024,
-  title={Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church},
-  author={Ziegler, Jeffrey},
-  journal={Politics and Religion},
-  year={2024},
-  publisher={Cambridge University Press}
-}
-</pre>
-</p><br/>
-</details>
-<br/>
-
 Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Forthcoming at Journal of Law and Courts*.
 
 <table align="left">
@@ -84,6 +56,37 @@ A growing theoretical literature identifies how the process of constitutional re
   author={Gabel, Matthew and Carrubba, Clifford J and Helmke, Gretchen and Martin, Andrew D and Staton, Jeffrey K and Ward, Dalston and Ziegler, Jeffrey},
   journal={Journal of Law and Courts},
   pages={1--27},
+  year={2024},
+  publisher={Cambridge University Press}
+}
+</pre>
+</p><br/>
+</details>
+<br/>
+
+**Jeffrey Ziegler** (2024). ”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”. *Politics and Religion* 17(2), 250-275.
+<table align="left">
+  <tr><td><a href="https://www.cambridge.org/core/journals/politics-and-religion/article/political-responsiveness-and-centralized-religious-leaders-lessons-from-the-catholic-church/7816CEDA334841B944CCCB829A626CCC" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://osf.io/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+</table><br/>
+
+<details><summary> Abstract </summary>
+<br/><p>
+Are centralized leaders of religious organizations responsive to their followers' political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that such leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its centralized leader, the Pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics' overall political concerns. Second, I conduct survey experiments in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that in religious organizations, centralized leaders reaffirm members' political interests because followers support religious organizations that are politically responsive.
+</p><br/>
+</details>
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{ziegler2024,
+  title={Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church},
+  author={Ziegler, Jeffrey},
+  journal={Politics and Religion},
+	volume={17},
+	issue={2},
+	pages={250-275},
   year={2024},
   publisher={Cambridge University Press}
 }
