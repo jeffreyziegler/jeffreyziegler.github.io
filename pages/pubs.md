@@ -273,20 +273,6 @@ One of the more important innovations in the study of how citizens assess the U.
 
 ### <a name="workingPapers"></a>Working Papers
 
-Carlson, David & **Jeffrey Ziegler**. ”Modeling Without Conditional Independence: Gaussian Process Regression for Time-Series Cross-Sectional”.
-
-<table align="left">
-  <tr>
-	<td><a href="https://www.dropbox.com/s/37xy7u5y4y0kvti/GPR_TSCS.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-Social science researchers frequently need to analyze time-series cross-sectional (TSCS) data. There are well-known problems that these analyses encounter which make inferences particularly difficult, including serial correlation in the variables of interest across time, between-subject heterogeneity in baselines and temporal trends, as well as unbalanced panels. In these circumstances, both parameter estimates and their standard errors can be misleading and biased when inappropriately modeled. We offer a modeling strategy that is appropriate even when the panel is unbalanced utilizing Gaussian process regression (GPR). We argue it surpasses previous alternatives on many criteria across a range of commonly encountered situations with TSCS data. GPR offers the simplicity of standard inferential techniques while handling complex underlying data-generation. It is particularly useful for applications in which we doubt the assumptions of conditional independence, and when we do not know or do not want to assume a specific error structure associated with this non-independence.
-</p><br/>
-</details>
-<br/>
-
 Cheruvu, Sivaram, & **Jeffrey Ziegler**. ”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions”.
 
 <table align="left">
