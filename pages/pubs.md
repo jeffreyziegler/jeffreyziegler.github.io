@@ -277,7 +277,7 @@ Carlson, David, & **Jeffrey Ziegler**. ”Modeling Without Conditional Independe
 
 <table align="left">
   <tr>
-	<td><a href="https://www.dropbox.com/scl/fi/s4j242kqt0bs07hp5gjsl/wd_Aug_24.pdf?rlkey=n0u2zl9bm6f59m0it8f8qvhr4&st=y7toqwpc&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td> 
+	<td><a href="https://www.dropbox.com/scl/fi/m47l6hwfemii02lawkfsw/GPR_draft.pdf?rlkey=1f8jk4bxbkcteysm6zrcf077a&st=z2q5qiwf&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td> 
 </tr>
 </table><br/>
 
