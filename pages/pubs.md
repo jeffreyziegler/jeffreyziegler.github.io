@@ -19,10 +19,11 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”. *Accepted at Research and Politics*.
+Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”. *Research and Politics* 11(4), 1-8.
 <table align="left">
-  <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/4ws7m/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Paper</a></td> 
+  <tr><td><a href="https://doi.org/10.1177/20531680241299329" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	  <td></td>	  <td></td>  <td></td>
+<td><a href="https://www.dropbox.com/scl/fi/wqvisxpvdcr878csp0vaa/MillerZiegler2024.pdf?rlkey=pdiyi2sex5jaxlpet5802669p&st=ygwelcqb&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td> 
 	  	  <td></td>	  <td></td>  <td></td>
 	  <td><a href="https://www.dropbox.com/scl/fi/zixst5870qfdkcckqb9nx/conjoint_nonresponse_printable.pdf?rlkey=pangnk0pewgs9okht3kwl49gy&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Slides</a></td> </tr>
 </table><br/>
@@ -32,6 +33,22 @@ Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint E
 Conjoint experiments are often used to mimic political choices that people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decision-making contexts that individuals engage in because respondents are typically forced to select one of the available options. Theoretically, we illustrate how offering respondents an abstention option can produce average marginal component effects (AMCEs) of differing signs and magnitudes relative to a forced-choice outcome. This difference depends on 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) those respondents’ preference orderings. Empirically, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option could lead to different AMCE estimates.
 </p><br/>
 </details>
+<details><summary> Citation </summary>
+<p>
+<br/>
+<pre>
+@article{millerZiegler2024,
+  title={Preferential Abstention in Conjoint Experiments},
+  author={Miller, David R. and Ziegler, Jeffrey},
+  journal={Research and Politics},
+	volume={11},
+	issue={4},	
+  pages={1--8},
+  year={2024},
+}
+</pre>
+</p><br/>
+</details>
 <br/>
 
 Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Forthcoming at Journal of Law and Courts*.
@@ -39,7 +56,7 @@ Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://www.dropbox.com/s/wn3xwdympvypdsh/CompLaw_2023_01_12.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+	<td><a href="https://www.dropbox.com/scl/fi/b17pp1bk1snokqzpotknq/CompLaw2024.pdf?rlkey=2rmrssbocim2jerinaq1jvtmv&st=7puf4srn&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
