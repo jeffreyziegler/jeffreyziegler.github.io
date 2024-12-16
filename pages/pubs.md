@@ -85,7 +85,7 @@ Conjoint experiments are often used to mimic political choices that people face,
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/politics-and-religion/article/political-responsiveness-and-centralized-religious-leaders-lessons-from-the-catholic-church/7816CEDA334841B944CCCB829A626CCC" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://osf.io/kvz48/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+	<td><a href="https://www.dropbox.com/scl/fi/m55a1k1929hyo2nx51y8i/Ziegler2024.pdf?rlkey=jkrkvs2jgi8dbmtwjpy87506p&st=7priodk2&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
