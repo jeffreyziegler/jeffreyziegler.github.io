@@ -49,7 +49,7 @@ A growing theoretical literature identifies how the process of constitutional re
 </details>
 <br/>
 
-Miller, David R. & **Jeffrey Ziegler**. ”Preferential Abstention in Conjoint Experiments”. *Research and Politics* 11(4), 1-8.
+Miller, David R. & **Jeffrey Ziegler** (2024). ”Preferential Abstention in Conjoint Experiments”. *Research and Politics* 11(4), 1-8.
 <table align="left">
   <tr><td><a href="https://doi.org/10.1177/20531680241299329" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
