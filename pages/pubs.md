@@ -55,7 +55,7 @@ Miller, David R. & **Jeffrey Ziegler** (2024). ”Preferential Abstention in Con
 	  <td></td>	  <td></td>  <td></td>
 <td><a href="https://www.dropbox.com/scl/fi/wqvisxpvdcr878csp0vaa/MillerZiegler2024.pdf?rlkey=pdiyi2sex5jaxlpet5802669p&st=ygwelcqb&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td> 
 	  	  <td></td>	  <td></td>  <td></td>
-	  <td><a href="https://journals.sagepub.com/doi/suppl/10.1177/20531680241299329/suppl_file/sj-pdf-1-rap-10.1177_20531680241299329.pdf" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>Supplementary Materials</a></td> </tr>
+	  <td><a href="https://journals.sagepub.com/doi/suppl/10.1177/20531680241299329/suppl_file/sj-pdf-1-rap-10.1177_20531680241299329.pdf" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/>Supplementary Materials</a></td> </tr>
 <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JQOPNW" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/>Replication Data</a></td></tr>
 </table><br/>
