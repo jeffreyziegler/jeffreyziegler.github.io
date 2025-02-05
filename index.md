@@ -20,8 +20,6 @@ This site mainly includes info about my research and teaching. Feel free to <a h
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://github.com/jeffreyziegler" target="_blank"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub</a></td>
 	    <td></td>	  <td></td>  <td></td>
-	<td><a href="https://twitter.com/jeffreymziegler" target="_blank"> <img src="pages/icons32/twitter-icon.png" alt="hi" class="inline"/> Twitter</a></td>
-	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://bsky.app/profile/jeffreymziegler.bsky.social" target="_blank"> <img src="pages/icons32/bsky-icon.png" alt="hi" class="inline"/> Bluesky</a></td></tr>
 </table>
 <br/><br/>
