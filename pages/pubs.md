@@ -361,7 +361,7 @@ Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Respons
 
 ### <a name="grants"></a>Grants and Awards
 
-- Visiting Professorships and Fellowships Benefaction Fund, Trinity College Dublin (2024)
+- Visiting Professorships and Fellowships Benefaction Fund, Trinity College Dublin (2024, 2025)
   
 - TRiSS Academic Research Fellowship, Trinity College Dublin (2022)
 
