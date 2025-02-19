@@ -19,7 +19,7 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler**. ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Forthcoming at Journal of Law and Courts*.
+Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler** (2024). ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Journal of Law and Courts* 12(2), 466-492.
 
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -40,7 +40,9 @@ A growing theoretical literature identifies how the process of constitutional re
   title={CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review},
   author={Gabel, Matthew and Carrubba, Clifford J and Helmke, Gretchen and Martin, Andrew D and Staton, Jeffrey K and Ward, Dalston and Ziegler, Jeffrey},
   journal={Journal of Law and Courts},
-  pages={1--27},
+  pages={466--492},
+  volume={12},
+  issue={2},
   year={2024},
   publisher={Cambridge University Press}
 }
