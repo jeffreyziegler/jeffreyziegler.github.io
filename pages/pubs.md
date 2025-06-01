@@ -73,7 +73,6 @@ Results: IEB workshop attendees rated the workshop as more useful and reported t
 Conclusions: Findings provide initial support for the acceptability and feasibility of an exposure-based clinical training to challenge avoidance behaviors and increase engagement in discussions around cultural factors with clients. 
 </p><br/>
 </details>
-<br/>
 
 <table align="left">
   <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td></tr>
@@ -84,7 +83,6 @@ Conclusions: Findings provide initial support for the acceptability and feasibil
 Numerous cross-sectional studies confirm the long-theorized association between mothers’ depression and lower parenting self-efficacy (PSE) beliefs. However, cross-sectional studies leave unanswered the direction of this association: Does depression predict PSE? Does PSE predict depression? Are both true? Does the strength of the association between depression and PSE, regardless of the direction, generalize across participant characteristics and study design features? How stable is PSE over time? And how effective are interventions at enhancing PSE? To answer these questions, we conducted a meta-analytic review of longitudinal studies. With 35 eligible studies (22,698 participants), we found support for both models: there was a significant pooled effect of both depression on PSE and of PSE on depression, with nearly identical effect sizes (d = −0.21 and −0.22, respectively). The association was stronger in samples with mothers’ younger average age and studies that measured PSE among mothers relative to during pregnancy. We found a medium degree of stability in the index of PSE, d = 0.60. Finally, the estimated pooled effect size between being in an intervention group versus control group and PSE was 0.505. Overall, we found support for (1) bidirectional associations between depression and PSE in mothers, (2) the stability of PSE over time, and (3) the strength of the relationship between PSE and depression with intervention. These results suggest the importance of continuing to develop, test, and disseminate interventions to enhance PSE. We interpret these findings in the context of both depression and low PSE having serious consequences for child outcomes and maladaptive parenting.
 </p><br/>
 </details>
-<br/>
 
 <table align="left">
   <tr><td><a href="https://link.springer.com/article/10.1007/s10567-022-00398-0" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -97,7 +95,6 @@ Numerous cross-sectional studies confirm the long-theorized association between 
 Participants that complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or instructional closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text that respondents provide in an open-ended manipulation check. There are multiple benefits to this approach. First, it provides a continuous measure of attention, which allows for greater variation between respondents. Second, it reduces the reliance on subjective, paid humans to analyze open-ended responses.  Last, I outline how to diagnose the impact of inattentive workers on the overall results, including how to assess the average treatment effect of those respondents that likely received the treatment. I provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
 </p><br/>
 </details>
-<br/>
 
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/political-analysis/article/abs/textasdata-approach-for-using-openended-responses-as-manipulation-checks/C0A94C4CC5D0ECC72E8A670050D76ED4#article" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -113,7 +110,6 @@ Participants that complete online surveys and experiments may be inattentive, wh
 Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
 </p><br/>
 </details>
-<br/>
 
 <table align="left">
   <tr><td><a href="https://www.ir-journal.com/issues/volume-18-number-072-2022/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -130,7 +126,6 @@ One of the more important innovations in the study of how citizens assess the U.
 <br/>
 </p>
 </details>
-<br/>
 
 <table align="left">
   <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -142,7 +137,12 @@ One of the more important innovations in the study of how citizens assess the U.
 
 ### <a name="workingPapers"></a>Working Papers
 
-Carlson, David, & **Jeffrey Ziegler**. ”Modeling Without Conditional Independence: Gaussian Process Regression for Time-Series Cross-Sectional Analyses”.
+<details><summary> Carlson, David, & <b>Jeffrey Ziegler</b>. ”Modeling Without Conditional Independence: Gaussian Process Regression for Time-Series Cross-Sectional Analyses”.
+ </summary>
+<br/><p>
+Social science researchers frequently need to analyze time-series cross-sectional (TSCS) data. Yet, there are well-known problems that make inferences particularly difficult, including: serial correlation in the variables of interest across time, between-subject heterogeneity in baselines and temporal trends, as well as unbalanced panels. In these circumstances, both parameter estimates and their standard errors can be misleading and biased when inappropriately modeled. We offer a modeling strategy that is appropriate even when the panel is unbalanced utilizing Gaussian process regression (GPR). GPR offers the simplicity of standard inferential techniques while handling complex underlying data-generation. GPR is particularly useful for applications in which we doubt the assumptions of conditional independence, and when we do not know or do not want to assume a specific error structure associated with this non-independence. Importantly, we show GPR surpasses previous alternatives on many criteria across a range of commonly encountered situations with TSCS data.
+</p><br/>
+</details>
 
 <table align="left">
   <tr>
@@ -150,33 +150,17 @@ Carlson, David, & **Jeffrey Ziegler**. ”Modeling Without Conditional Independe
 </tr>
 </table><br/>
 
-<details><summary> Abstract </summary>
-<br/><p>
-Social science researchers frequently need to analyze time-series cross-sectional (TSCS) data. Yet, there are well-known problems that make inferences particularly difficult, including: serial correlation in the variables of interest across time, between-subject heterogeneity in baselines and temporal trends, as well as unbalanced panels. In these circumstances, both parameter estimates and their standard errors can be misleading and biased when inappropriately modeled. We offer a modeling strategy that is appropriate even when the panel is unbalanced utilizing Gaussian process regression (GPR). GPR offers the simplicity of standard inferential techniques while handling complex underlying data-generation. GPR is particularly useful for applications in which we doubt the assumptions of conditional independence, and when we do not know or do not want to assume a specific error structure associated with this non-independence. Importantly, we show GPR surpasses previous alternatives on many criteria across a range of commonly encountered situations with TSCS data.
-</p><br/>
-</details>
-<br/>
-
-Cheruvu, Sivaram, & **Jeffrey Ziegler**. ”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions”.
-
-<table align="left">
-  <tr>
-	<td><a href="https://osf.io/preprints/socarxiv/y4w5c/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
+<details><summary> Cheruvu, Sivaram, & <b>Jeffrey Ziegler</b>. ”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”.
+ </summary>
 <br/><p>
 Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
 </p><br/>
 </details>
-<br/>
 
 Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
 <br/><br/>
 
-Stone, Andrew R. & **Jeffrey Ziegler**. ”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?”.
-
-<details><summary> Abstract </summary>
+<details><summary> Stone, Andrew R. & <b>Jeffrey Ziegler</b>. ”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?” </summary>
 <br/><p>
 Research shows that judges express their underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings are more nor less detrimental to high courts’ legitimacy than written transcripts. First, using a nationally representative sample of Americans, we show that when individuals read the written transcripts from a case they are not more likely to grant the US Supreme Court legitimacy than individuals that hear the same dialogue. Second, we show among a nationally representative sample in the UK that Brits are not more or less likely to believe the nation’s high court is legitimate when they read, hear, or watch oral proceedings. These null results are not conditional on the emotions that judges convey, perceived political inclinations of judges, or participants’ political preferences. The findings have important implications for how national high courts communicate their decisions.
 </p><br/>
