@@ -79,7 +79,12 @@ Conclusions: Findings provide initial support for the acceptability and feasibil
   <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td></tr>
 </table><br/>
 
-Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos (2022). ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Clinical Child and Family Psychology Review* 25(3), 471-499.
+<details><summary> Goodman, Sherryl H., Hannah Simon, Luke McCarthy, <b>Jeffrey Ziegler</b>, & Alex Ceballos (2022). ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. <i>Clinical Child and Family Psychology Review</i> 25(3), 471-499. </summary>
+<br/><p>
+Numerous cross-sectional studies confirm the long-theorized association between mothers’ depression and lower parenting self-efficacy (PSE) beliefs. However, cross-sectional studies leave unanswered the direction of this association: Does depression predict PSE? Does PSE predict depression? Are both true? Does the strength of the association between depression and PSE, regardless of the direction, generalize across participant characteristics and study design features? How stable is PSE over time? And how effective are interventions at enhancing PSE? To answer these questions, we conducted a meta-analytic review of longitudinal studies. With 35 eligible studies (22,698 participants), we found support for both models: there was a significant pooled effect of both depression on PSE and of PSE on depression, with nearly identical effect sizes (d = −0.21 and −0.22, respectively). The association was stronger in samples with mothers’ younger average age and studies that measured PSE among mothers relative to during pregnancy. We found a medium degree of stability in the index of PSE, d = 0.60. Finally, the estimated pooled effect size between being in an intervention group versus control group and PSE was 0.505. Overall, we found support for (1) bidirectional associations between depression and PSE in mothers, (2) the stability of PSE over time, and (3) the strength of the relationship between PSE and depression with intervention. These results suggest the importance of continuing to develop, test, and disseminate interventions to enhance PSE. We interpret these findings in the context of both depression and low PSE having serious consequences for child outcomes and maladaptive parenting.
+</p><br/>
+</details>
+<br/>
 
 <table align="left">
   <tr><td><a href="https://link.springer.com/article/10.1007/s10567-022-00398-0" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -87,31 +92,12 @@ Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ce
 	<td><a href="https://www.dropbox.com/s/6b9v0gmqcotudt7/CCFPR.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
 </table><br/>
 
-<details><summary> Abstract </summary>
+<details><summary> <b>Jeffrey Ziegler</b> (2022). ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". <i>Political Analysis</i> 30(2), 289-297. </summary>
 <br/><p>
-Numerous cross-sectional studies confirm the long-theorized association between mothers’ depression and lower parenting self-efficacy (PSE) beliefs. However, cross-sectional studies leave unanswered the direction of this association: Does depression predict PSE? Does PSE predict depression? Are both true? Does the strength of the association between depression and PSE, regardless of the direction, generalize across participant characteristics and study design features? How stable is PSE over time? And how effective are interventions at enhancing PSE? To answer these questions, we conducted a meta-analytic review of longitudinal studies. With 35 eligible studies (22,698 participants), we found support for both models: there was a significant pooled effect of both depression on PSE and of PSE on depression, with nearly identical effect sizes (d = −0.21 and −0.22, respectively). The association was stronger in samples with mothers’ younger average age and studies that measured PSE among mothers relative to during pregnancy. We found a medium degree of stability in the index of PSE, d = 0.60. Finally, the estimated pooled effect size between being in an intervention group versus control group and PSE was 0.505. Overall, we found support for (1) bidirectional associations between depression and PSE in mothers, (2) the stability of PSE over time, and (3) the strength of the relationship between PSE and depression with intervention. These results suggest the importance of continuing to develop, test, and disseminate interventions to enhance PSE. We interpret these findings in the context of both depression and low PSE having serious consequences for child outcomes and maladaptive parenting.
-</p><br/>
-</details>
-<details><summary> Citation </summary>
-<p>
-<br/>
-<pre>
-@article{goodmanSimonMcCarthyZieglerCeballos2022,
-  title={Testing Models of Associations Between Depression and Parenting Self-efficacy in Mothers: A Meta-analytic Review},
-  author={Goodman, Sherryl H and Simon, Hannah and McCarthy, Luke and Ziegler, Jeffrey and Ceballos, Alex},
-  journal={Clinical Child and Family Psychology Review},
-  volume={25},
-  number={3},
-  pages={471--499},
-  year={2022},
-  publisher={Springer}
-}
-</pre>
+Participants that complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or instructional closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text that respondents provide in an open-ended manipulation check. There are multiple benefits to this approach. First, it provides a continuous measure of attention, which allows for greater variation between respondents. Second, it reduces the reliance on subjective, paid humans to analyze open-ended responses.  Last, I outline how to diagnose the impact of inattentive workers on the overall results, including how to assess the average treatment effect of those respondents that likely received the treatment. I provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
 </p><br/>
 </details>
 <br/>
-
-**Ziegler, Jeffrey** (2022). ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks". *Political Analysis* 30(2), 289-297.
 
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/political-analysis/article/abs/textasdata-approach-for-using-openended-responses-as-manipulation-checks/C0A94C4CC5D0ECC72E8A670050D76ED4#article" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -121,32 +107,13 @@ Numerous cross-sectional studies confirm the long-theorized association between 
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WXIRQN" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
 </table><br/>
 
-<details><summary> Abstract </summary>
+<details><summary> Carlson, David & <b>Jeffrey Ziegler</b> (2021). ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty Violations”. <i>Uluslararası İlişkiler - International Relations</i> 18(72), 37-49.
+ </summary>
 <br/><p>
-Participants that complete online surveys and experiments may be inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. As such, many practitioners include multiple factual or instructional closed-ended manipulation checks to identify low-attention respondents. However, closed-ended manipulation checks are either correct or incorrect, which allows participants to more easily guess and it reduces the potential variation in attention between respondents. In response to these shortcomings, I develop an automatic and standardized methodology to measure attention that relies on the text that respondents provide in an open-ended manipulation check. There are multiple benefits to this approach. First, it provides a continuous measure of attention, which allows for greater variation between respondents. Second, it reduces the reliance on subjective, paid humans to analyze open-ended responses.  Last, I outline how to diagnose the impact of inattentive workers on the overall results, including how to assess the average treatment effect of those respondents that likely received the treatment. I provide easy-to-use software in R to implement these suggestions for open-ended manipulation checks.
-</p><br/>
-</details>
-<details><summary> Citation </summary>
-<p>
-<br/>
-<pre>
-@article{ziegler2022,
-  title={A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks},
-  author={Ziegler, Jeffrey},
-  journal={Political Analysis},
-  volume={30},
-  number={2},
-  pages={289--297},
-  year={2022},
-  publisher={Cambridge University Press}
-}
-</pre>
+Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
 </p><br/>
 </details>
 <br/>
-
-Carlson, David & **Jeffrey Ziegler** (2021). ”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty
-Violations”. *Uluslararası İlişkiler - International Relations* 18(72), 37-49.
 
 <table align="left">
   <tr><td><a href="https://www.ir-journal.com/issues/volume-18-number-072-2022/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -156,31 +123,14 @@ Violations”. *Uluslararası İlişkiler - International Relations* 18(72), 37-
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TBKLWV" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
 </table><br/>
 
-<details><summary> Abstract </summary>
-<br/><p>
-Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
-</p><br/>
-</details>
-<details><summary> Citation </summary>
+<details><summary> Gibson, James L., Miguel M. Pereira, & <b>Jeffrey Ziegler</b> (2017). ”Updating Supreme Court Legitimacy: Testing the ’Rule, Learn, Update’ Model of Political Communication”. <i>American Politics Research</i> 45(6), 980-1002. </summary>
 <p>
 <br/>
-<pre>
-@article{carlsonZiegler2021,
-  title={The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty Violations},
-  author={Carlson, David and Ziegler, Jeffrey},
-  journal={Uluslararas{\i} {\.I}li{\c{s}}kiler Dergisi},
-  volume={18},
-  number={72},
-  pages={37--49},
-  year={2021}
-}
-</pre>
-</p><br/>
+One of the more important innovations in the study of how citizens assess the U.S. Supreme Court is the ideological updating model, which assumes that citizens grant legitimacy to the institution according to the perceived distance between themselves and the Court on a unidimensional ideological (liberal–conservative) continuum. Under this model, citizens are also said to update this calculation with every new salient Supreme Court decision. The model’s requirements, however, do not seem to square with the long-established view that Americans are largely innocent of ideology. Here, we conduct an audit of the model’s mechanisms using a series of empirical tests applied to a nationally representative sample. Our general conclusion is that the ideological updating model, especially when supplemented with the requirement that citizens must become aware of Court decisions, simply does not square with the realities of American politics. Students of Supreme Court legitimacy may therefore want to search for other theories of legitimacy updating.
+<br/>
+</p>
 </details>
 <br/>
-
-Gibson, James L., Miguel M. Pereira, & **Jeffrey Ziegler** (2017). ”Updating Supreme Court Legitimacy: Testing
-the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research* 45(6), 980-1002.
 
 <table align="left">
   <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
@@ -189,32 +139,6 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/s/gh0l4evmnd3xlj2/Appendix_Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
 </table><br/>
-
-<details><summary> Abstract </summary>
-<p>
-<br/>
-One of the more important innovations in the study of how citizens assess the U.S. Supreme Court is the ideological updating model, which assumes that citizens grant legitimacy to the institution according to the perceived distance between themselves and the Court on a unidimensional ideological (liberal–conservative) continuum. Under this model, citizens are also said to update this calculation with every new salient Supreme Court decision. The model’s requirements, however, do not seem to square with the long-established view that Americans are largely innocent of ideology. Here, we conduct an audit of the model’s mechanisms using a series of empirical tests applied to a nationally representative sample. Our general conclusion is that the ideological updating model, especially when supplemented with the requirement that citizens must become aware of Court decisions, simply does not square with the realities of American politics. Students of Supreme Court legitimacy may therefore want to search for other theories of legitimacy updating.
-<br/>
-</p>
-</details>
-
-<details><summary> Citation </summary>
-<p>
-<br/>
-<pre>
-@article{gibsonPereiraZiegler2017,
-  title={Updating Supreme Court Legitimacy: Testing the “Rule, Learn, Update” Model of Political Communication},
-  author={Gibson, James L. and Pereira, Miguel M. and Ziegler, Jeffrey},
-  journal={American Politics Research},
-  volume={45},
-  number={6},
-  pages={980--1002},
-  year={2017},
-}
-</pre>
-</p><br/>
-</details>
-<br/>
 
 ### <a name="workingPapers"></a>Working Papers
 
