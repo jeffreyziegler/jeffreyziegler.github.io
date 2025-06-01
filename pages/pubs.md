@@ -25,7 +25,6 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 A growing theoretical literature identifies how the process of constitutional review shapes judicial decision-making, legislative behavior, and even the constitutionality of legislation and executive actions. However, the empirical interrogation of these theoretical arguments is limited by the absence of a common protocol for coding constitutional review decisions across courts and time. We introduce such a coding protocol and database (CompLaw) of rulings by 42 constitutional courts. To illustrate the value of CompLaw, we examine a heretofore untested empirical implication about how review timing relates to rulings of unconstitutionality (Ward and Gabel 2019). First, we conduct a nuanced analysis of rulings by the French Constitutional Council over a 13-year period. We then examine the relationship between review timing and strike rates with a set of national constitutional courts in one year. Our data analysis highlights the benefits and flexibility of the CompLaw coding protocol for scholars of judicial review.
 </p><br/>
 </details>
-<br/>
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
@@ -37,7 +36,6 @@ A growing theoretical literature identifies how the process of constitutional re
 Conjoint experiments are often used to mimic political choices that people face, such as voting for public officials or selecting news stories. Conjoint designs, however, do not always mirror the real-world decision-making contexts that individuals engage in because respondents are typically forced to select one of the available options. Theoretically, we illustrate how offering respondents an abstention option can produce average marginal component effects (AMCEs) of differing signs and magnitudes relative to a forced-choice outcome. This difference depends on 1) the proportion of respondents who would rather abstain than select profiles lacking their preferred attribute-levels, and 2) those respondents’ preference orderings. Empirically, we replicate two conjoint experiments and demonstrate how omitting a realistic abstention option could lead to different AMCE estimates.
 </p><br/>
 </details>
-<br/>
 <table align="left">
   <tr><td><a href="https://doi.org/10.1177/20531680241299329" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
@@ -53,7 +51,6 @@ Conjoint experiments are often used to mimic political choices that people face,
 Are centralized leaders of religious organizations responsive to their followers' political preferences over time even when formal accountability mechanisms, such as elections, are weak or absent? I argue that such leaders have incentives to be responsive because they rely on dedicated members for legitimacy and support. I test this theory by examining the Catholic Church and its centralized leader, the Pope. First, I analyze over 10,000 papal statements to confirm that the papacy is responsive to Catholics' overall political concerns. Second, I conduct survey experiments in Brazil and Mexico to investigate how Catholics react to responsiveness. Catholics increase their organizational trust and participation when they receive papal messages that reflect their concerns, conditional on their existing commitment to the Church and their agreement with the Church on political issues. The evidence suggests that in religious organizations, centralized leaders reaffirm members' political interests because followers support religious organizations that are politically responsive.
 </p><br/>
 </details>
-<br/>
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/politics-and-religion/article/political-responsiveness-and-centralized-religious-leaders-lessons-from-the-catholic-church/7816CEDA334841B944CCCB829A626CCC" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
