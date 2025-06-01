@@ -19,37 +19,19 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
-Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler** (2024). ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Journal of Law and Courts* 12(2), 466-492.
+<details><summary> Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & **Jeffrey Ziegler** (2024). ”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”. *Journal of Law and Courts* 12(2), 466-492.
+</summary>
+<br/><p>
+A growing theoretical literature identifies how the process of constitutional review shapes judicial decision-making, legislative behavior, and even the constitutionality of legislation and executive actions. However, the empirical interrogation of these theoretical arguments is limited by the absence of a common protocol for coding constitutional review decisions across courts and time. We introduce such a coding protocol and database (CompLaw) of rulings by 42 constitutional courts. To illustrate the value of CompLaw, we examine a heretofore untested empirical implication about how review timing relates to rulings of unconstitutionality (Ward and Gabel 2019). First, we conduct a nuanced analysis of rulings by the French Constitutional Council over a 13-year period. We then examine the relationship between review timing and strike rates with a set of national constitutional courts in one year. Our data analysis highlights the benefits and flexibility of the CompLaw coding protocol for scholars of judicial review.
+</p><br/>
+</details>
+<br/>
 
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/scl/fi/b17pp1bk1snokqzpotknq/CompLaw2024.pdf?rlkey=2rmrssbocim2jerinaq1jvtmv&st=7puf4srn&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
 </table><br/>
-
-<details><summary> Abstract </summary>
-<br/><p>
-A growing theoretical literature identifies how the process of constitutional review shapes judicial decision-making, legislative behavior, and even the constitutionality of legislation and executive actions. However, the empirical interrogation of these theoretical arguments is limited by the absence of a common protocol for coding constitutional review decisions across courts and time. We introduce such a coding protocol and database (CompLaw) of rulings by 42 constitutional courts. To illustrate the value of CompLaw, we examine a heretofore untested empirical implication about how review timing relates to rulings of unconstitutionality (Ward and Gabel 2019). First, we conduct a nuanced analysis of rulings by the French Constitutional Council over a 13-year period. We then examine the relationship between review timing and strike rates with a set of national constitutional courts in one year. Our data analysis highlights the benefits and flexibility of the CompLaw coding protocol for scholars of judicial review.
-</p><br/>
-</details>
-<details><summary> Citation </summary>
-<p>
-<br/>
-<pre>
-@article{gabelCarrubbaHelmkeMartinStatonWardZiegler2024,
-  title={CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review},
-  author={Gabel, Matthew and Carrubba, Clifford J and Helmke, Gretchen and Martin, Andrew D and Staton, Jeffrey K and Ward, Dalston and Ziegler, Jeffrey},
-  journal={Journal of Law and Courts},
-  pages={466--492},
-  volume={12},
-  issue={2},
-  year={2024},
-  publisher={Cambridge University Press}
-}
-</pre>
-</p><br/>
-</details>
-<br/>
 
 Miller, David R. & **Jeffrey Ziegler** (2024). ”Preferential Abstention in Conjoint Experiments”. *Research and Politics* 11(4), 1-8.
 <table align="left">
