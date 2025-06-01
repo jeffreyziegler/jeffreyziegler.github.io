@@ -29,7 +29,7 @@ A growing theoretical literature identifies how the process of constitutional re
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/scl/fi/b17pp1bk1snokqzpotknq/CompLaw2024.pdf?rlkey=2rmrssbocim2jerinaq1jvtmv&st=7puf4srn&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/><br/>
+</table><br/>
 
 <details><summary> Miller, David R. & <b>Jeffrey Ziegler</b> (2024). ”Preferential Abstention in Conjoint Experiments”. <i>Research and Politics</i> 11(4), 1-8. </summary>
 <br/><p>
@@ -59,13 +59,7 @@ Are centralized leaders of religious organizations responsive to their followers
 	<td><a href="https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1755048324000105/resource/name/S1755048324000105sup001.pdf" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
 </table><br/>
 
-Jacquart, Jolene, Sophie Wardle Pinkston, **Jeffrey Ziegler**, David A. Sbarra, & Mary-Frances O’Connor (2024). "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". *Training and Education in Professional Psychology* 18(1), 87–97.
-
-<table align="left">
-  <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td></tr>
-</table><br/>
-
-<details><summary> Abstract </summary>
+<details><summary> Jacquart, Jolene, Sophie Wardle Pinkston, <b>Jeffrey Ziegler</b>, David A. Sbarra, & Mary-Frances O’Connor (2024). "Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy". <i>Training and Education in Professional Psychology</i> 18(1), 87–97.</summary>
 <br/><p>
 Introduction: In the context of clinical care, discussions concerning culture are important for providing inclusive and culturally responsive evidence-based treatments. The present study contributes to training and educating anti-racist psychologists by exploring a teaching strategy aimed at actively changing behaviors that may hinder rapport and therapeutic efficacy for clients of underrepresented and marginalized backgrounds. Drawing upon an extensively researched clinical intervention for the treatment of anxiety and fear—exposure therapy—the study explored the feasibility and acceptability of an exposure-based teaching strategy that intervenes on anxiety and avoidance behavior around multicultural discussions with clients. <br/>
 <br/>	
@@ -79,24 +73,11 @@ Results: IEB workshop attendees rated the workshop as more useful and reported t
 Conclusions: Findings provide initial support for the acceptability and feasibility of an exposure-based clinical training to challenge avoidance behaviors and increase engagement in discussions around cultural factors with clients. 
 </p><br/>
 </details>
-<details><summary> Citation </summary>
-<p>
 <br/>
-<pre>
-@article{jacquartPinkstonZieglerSbarraOConnor2024,
-   title={Improving culturally responsive clinical training: Exploring the acceptability and feasibility of an exposure-based strategy.},
-  author={Jacquart, Jolene and Wardle-Pinkston, Sophie and Ziegler, Jeffrey and Sbarra, David A and O'Connor, Mary-Frances},
-  journal={Training and Education in Professional Psychology},
-  year={2024},
- volume={18},
-  number={1},
- pages={87-97},
-  publisher={Educational Publishing Foundation}
-}
-</pre>
-</p><br/>
-</details>
-<br/>
+
+<table align="left">
+  <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td></tr>
+</table><br/>
 
 Goodman, Sherryl H., Hannah Simon, Luke McCarthy, **Jeffrey Ziegler**, & Alex Ceballos (2022). ”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”. *Clinical Child and Family Psychology Review* 25(3), 471-499.
 
