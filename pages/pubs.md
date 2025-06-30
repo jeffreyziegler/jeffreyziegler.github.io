@@ -137,7 +137,27 @@ One of the more important innovations in the study of how citizens assess the U.
 
 ### <a name="workingPapers"></a>Working Papers
 
-<details><summary> Carlson, David, & Jeffrey Ziegler. <u><b>”Modeling Without Conditional Independence: Gaussian Process Regression for Time-Series Cross-Sectional Analyses”</b></u>.
+<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>.
+ </summary>
+<br/><p>
+Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
+</p><br/>
+</details>
+<br/>
+
+Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
+<br/><br/>
+
+<details><summary> Stone, Andrew R. & Jeffrey Ziegler. <u><b>”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?”</b></u> </summary>
+<br/><p>
+Research shows that judges express their underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings are more nor less detrimental to high courts’ legitimacy than written transcripts. First, using a nationally representative sample of Americans, we show that when individuals read the written transcripts from a case they are not more likely to grant the US Supreme Court legitimacy than individuals that hear the same dialogue. Second, we show among a nationally representative sample in the UK that Brits are not more or less likely to believe the nation’s high court is legitimate when they read, hear, or watch oral proceedings. These null results are not conditional on the emotions that judges convey, perceived political inclinations of judges, or participants’ political preferences. The findings have important implications for how national high courts communicate their decisions.
+</p><br/>
+</details>
+<br/>
+
+### <a name="dormant"></a>Dormant Papers
+
+<details><summary> Carlson, David, & Jeffrey Ziegler (2024). <u><b>”Modeling Without Conditional Independence: Gaussian Process Regression for Time-Series Cross-Sectional Analyses”</b></u>.
  </summary>
 <br/><p>
 Social science researchers frequently need to analyze time-series cross-sectional (TSCS) data. Yet, there are well-known problems that make inferences particularly difficult, including: serial correlation in the variables of interest across time, between-subject heterogeneity in baselines and temporal trends, as well as unbalanced panels. In these circumstances, both parameter estimates and their standard errors can be misleading and biased when inappropriately modeled. We offer a modeling strategy that is appropriate even when the panel is unbalanced utilizing Gaussian process regression (GPR). GPR offers the simplicity of standard inferential techniques while handling complex underlying data-generation. GPR is particularly useful for applications in which we doubt the assumptions of conditional independence, and when we do not know or do not want to assume a specific error structure associated with this non-independence. Importantly, we show GPR surpasses previous alternatives on many criteria across a range of commonly encountered situations with TSCS data.
@@ -149,24 +169,6 @@ Social science researchers frequently need to analyze time-series cross-sectiona
 	<td><a href="https://www.dropbox.com/scl/fi/m47l6hwfemii02lawkfsw/GPR_draft.pdf?rlkey=1f8jk4bxbkcteysm6zrcf077a&st=z2q5qiwf&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td> 
 </tr>
 </table><br/>
-
-<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>.
- </summary>
-<br/><p>
-Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
-</p><br/>
-</details>
-
-<br/><br/>
-Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
-<br/><br/>
-
-<details><summary> Stone, Andrew R. & Jeffrey Ziegler. <u><b>”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?”</b></u> </summary>
-<br/><p>
-Research shows that judges express their underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings are more nor less detrimental to high courts’ legitimacy than written transcripts. First, using a nationally representative sample of Americans, we show that when individuals read the written transcripts from a case they are not more likely to grant the US Supreme Court legitimacy than individuals that hear the same dialogue. Second, we show among a nationally representative sample in the UK that Brits are not more or less likely to believe the nation’s high court is legitimate when they read, hear, or watch oral proceedings. These null results are not conditional on the emotions that judges convey, perceived political inclinations of judges, or participants’ political preferences. The findings have important implications for how national high courts communicate their decisions.
-</p><br/>
-</details>
-<br/>
 
 ### <a name="software"></a>Software
 
