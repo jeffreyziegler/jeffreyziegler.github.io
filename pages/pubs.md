@@ -144,6 +144,7 @@ Research assessing judges' political preferences typically focuses on courts tha
 </p><br/>
 </details>
 
+<br/>
 Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
 <br/>
 
