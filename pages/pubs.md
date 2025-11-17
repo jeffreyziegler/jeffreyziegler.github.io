@@ -35,7 +35,7 @@ A growing theoretical literature identifies how the process of constitutional re
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/scl/fi/b17pp1bk1snokqzpotknq/CompLaw2024.pdf?rlkey=2rmrssbocim2jerinaq1jvtmv&st=7puf4srn&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 <details><summary> Miller, David R. & Jeffrey Ziegler (2024). <u><b>”Preferential Abstention in Conjoint Experiments”</b></u>. <i>Research and Politics</i> 11(4), 1-8. </summary>
 <br/><p>
@@ -50,7 +50,7 @@ Conjoint experiments are often used to mimic political choices that people face,
 	  <td><a href="https://journals.sagepub.com/doi/suppl/10.1177/20531680241299329/suppl_file/sj-pdf-1-rap-10.1177_20531680241299329.pdf" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/>Supplementary Materials</a></td> 
 <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JQOPNW" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/>Replication Data</a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 <details><summary> Jeffrey Ziegler  (2024). <u><b>”Political Responsiveness and Centralized Religious Leaders: Lessons from the Catholic Church”</b></u>. <i>Politics and Religion</i> 17(2), 250-275. </summary>
 <br/><p>
@@ -63,7 +63,7 @@ Are centralized leaders of religious organizations responsive to their followers
 	<td><a href="https://www.dropbox.com/scl/fi/m55a1k1929hyo2nx51y8i/Ziegler2024.pdf?rlkey=jkrkvs2jgi8dbmtwjpy87506p&st=7priodk2&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 <td></td>	  <td></td>  <td></td>
 	<td><a href="https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1755048324000105/resource/name/S1755048324000105sup001.pdf" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 <details><summary> Jacquart, Jolene, Sophie Wardle Pinkston, Jeffrey Ziegler, David A. Sbarra, & Mary-Frances O’Connor (2024). <u><b>"Improving Culturally Responsive Clinical Training: Exploring the Acceptability of an Exposure-Therapy Based Strategy"</b></u>. <i>Training and Education in Professional Psychology</i> 18(1), 87–97.</summary>
 <br/><p>
@@ -82,7 +82,7 @@ Conclusions: Findings provide initial support for the acceptability and feasibil
 
 <table align="left">
   <tr><td><a href="https://psycnet.apa.org/record/2024-20852-001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 <details><summary> Goodman, Sherryl H., Hannah Simon, Luke McCarthy, Jeffrey Ziegler, & Alex Ceballos (2022). <u><b>”Testing Models of Associations between Depression and Parenting Self-Efficacy in Mothers: A Meta-Analytic Review”</b></u>. <i>Clinical Child and Family Psychology Review</i> 25(3), 471-499. </summary>
 <br/><p>
@@ -94,7 +94,7 @@ Numerous cross-sectional studies confirm the long-theorized association between 
   <tr><td><a href="https://link.springer.com/article/10.1007/s10567-022-00398-0" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/s/6b9v0gmqcotudt7/CCFPR.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 <details><summary> Jeffrey Ziegler (2022). <u><b>”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks"</b></u>. <i>Political Analysis</i> 30(2), 289-297. </summary>
 <br/><p>
@@ -108,7 +108,7 @@ Participants that complete online surveys and experiments may be inattentive, wh
 	<td><a href="https://osf.io/preprints/socarxiv/ztgpm/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WXIRQN" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 <details><summary> Carlson, David & Jeffrey Ziegler (2021). <u><b>”The Role of Democratic Governance and Indirect Expropriation in International Investment Treaty Violations”</b></u>. <i>Uluslararası İlişkiler - International Relations</i> 18(72), 37-49.
  </summary>
@@ -123,7 +123,7 @@ Democracies are thought to violate treaties less frequently than non-democracies
 	  <td><a href="https://osf.io/preprints/socarxiv/b7xp2/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TBKLWV" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 <details><summary> Gibson, James L., Miguel M. Pereira, & Jeffrey Ziegler (2017). <u><b>”Updating Supreme Court Legitimacy: Testing the ’Rule, Learn, Update’ Model of Political Communication”</b></u>. <i>American Politics Research</i> 45(6), 980-1002. </summary>
 <p>
@@ -139,7 +139,7 @@ One of the more important innovations in the study of how citizens assess the U.
 	<td><a href="https://www.dropbox.com/s/1wq07kzo494s3pt/Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://www.dropbox.com/s/gh0l4evmnd3xlj2/Appendix_Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
-</table><br/>
+</table><br/><br/>
 
 ### <a name="workingPapers"></a>Working Papers
 
@@ -149,10 +149,8 @@ One of the more important innovations in the study of how citizens assess the U.
 Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
 </p><br/>
 </details>
+<br/>
 
-<br/>
-Goodman, Sherryl H., Elizabeth Kushner, Marissa D. Sbrilli, Shosuke Suzuki, Abby Yang, & **Jeffrey Ziegler**. ”Mechanisms of Mindfulness Training in Youth: A Meta-Analysis Grounded in Monitor and Acceptance Theory”.
-<br/>
 
 <details><summary> Stone, Andrew R. & Jeffrey Ziegler. <u><b>”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?”</b></u> </summary>
 <br/><p>
