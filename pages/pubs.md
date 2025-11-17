@@ -19,6 +19,12 @@ Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_C
 
 ### <a name="publications"></a>Publications
 
+<details><summary> Goodman, Sherryl H., Shosuke Suzukia, Elizabeth Kushnera, Marissa D. Sbrillib, Jeffrey Ziegler, & Abby Yang (2025). <u><b>”Mechanisms of Mindfulness Training in Children and Adolescents: A Meta-Analysis Grounded in Monitor and Acceptance Theory”</b></u>. <i>Accepted at Journal of Child and Family Studies</i>. </summary>
+<br/><p>
+Despite the growing support for the clinical and psychosocial benefits of mindfulness-based interventions (MBIs) for children and adolescents, the mechanisms underlying their effects remain unknown. For adults, the Monitor and Acceptance Theory (MAT) proposes two mechanisms underlying the benefits of mindfulness-based interventions: Attention monitoring and acceptance. As a first step in evaluating whether MBIs benefit children and adolescents by acting on these same processes, we systematically reviewed the effects of MBIs on attention monitoring and acceptance skills in youths. Then, we examined whether MBIs differentially affected attention monitoring and acceptance in children and adolescents, and whether the effects of MBIs on monitoring or acceptance were moderated by age and by other characteristics of the sample, intervention, and study. Across 63 randomized clinical trials, we found that (1) MBIs have a small mean estimated effect on acceptance but not attention monitoring, and (2) there is no statistically significant difference between the mechanisms. Contrary to predictions, age did not moderate MBI effects. We found stronger mean effects associated with studies that sampled from a targeted sub-group relative to the universal population, and with mindfulness being a primary relative to secondary intervention component, consistent with knowledge of greater effectiveness of more focused treatment approaches. Overall, these findings suggest the need for continued work, taking a developmental perspective, to understand the mechanisms underlying MBIs for children and adolescents.
+</p><br/>
+</details>
+
 <details><summary> Gabel, Matthew, Clifford J. Carrubba, Gretchen Helmke, Andrew D. Martin, Jeffrey K. Staton, Dalston Ward, & Jeffrey Ziegler (2024). <u><b>”CompLaw: A Coding Protocol and Database for the Comparative Study of Judicial Review”</b></u>. <i>Journal of Law and Courts</i> 12(2), 466-492.
 </summary>
 <br/><p>
