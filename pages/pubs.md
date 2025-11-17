@@ -15,7 +15,7 @@ description: Jeffrey Ziegler's research
     </div>
 </div>
 
-<p style="font-size:21px; "> Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons32/pdf-icon.png" alt="hi" class="inline"/> </a> </p>
+<p style="font-size:18px; "> Download <a href="https://www.dropbox.com/s/11wklrhabhnao5v/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons32/pdf-icon.png" alt="hi" class="inline"/> </a> </p>
 
 ### <a name="publications"></a>Publications
 
@@ -146,7 +146,7 @@ One of the more important innovations in the study of how citizens assess the U.
 <details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>.
  </summary>
 <br/><p>
-Research assessing judges' political preferences typically focuses on courts that publish individual votes and opinions, yet many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use convolutional neural networks (CNNs) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we apply CNNs to analyze the written judgments of judges-rapporteur and opinions of advocates-general from the Court of Justice of the European Union. Along a pro/anti-EU dimension, we estimate how judgments differ within (1) each case to the advocate-general's opinion, providing a baseline for the case's legal merits, and (2) each judge-rapporteur, which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocates-general or judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
+Research that assesses individual judges' ability to shape decisions typically focus on courts that publish separate votes and opinions. Yet, many courts issue \textit{per curiam} judgments that do not permit public dissent. To overcome this limitation, we use a convolutional neural network (CNN) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we construct a CNN to analyze the written judgments of judge-rapporteurs and opinions of advocates-general from the Court of Justice of the European Union. Along a pro-/anti-EU dimension, we estimate how judgments differ within (1) each case relative to the advocate-general's opinion, and (2) each judge-rapporteur which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocate-general or the judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
 </p><br/>
 </details>
 <br/>
