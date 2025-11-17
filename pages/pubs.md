@@ -156,7 +156,7 @@ Research assessing judges' political preferences typically focuses on courts tha
 <br/><p>
 Research shows that judges express their underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings are more nor less detrimental to high courts’ legitimacy than written transcripts. First, using a nationally representative sample of Americans, we show that when individuals read the written transcripts from a case they are not more likely to grant the US Supreme Court legitimacy than individuals that hear the same dialogue. Second, we show among a nationally representative sample in the UK that Brits are not more or less likely to believe the nation’s high court is legitimate when they read, hear, or watch oral proceedings. These null results are not conditional on the emotions that judges convey, perceived political inclinations of judges, or participants’ political preferences. The findings have important implications for how national high courts communicate their decisions.
 </p><br/>
-</details>
+</details><br/>
 
 ### <a name="dormant"></a>Dormant Papers
 
@@ -171,7 +171,7 @@ Social science researchers frequently need to analyze time-series cross-sectiona
   <tr>
 	<td><a href="https://www.dropbox.com/scl/fi/m47l6hwfemii02lawkfsw/GPR_draft.pdf?rlkey=1f8jk4bxbkcteysm6zrcf077a&st=z2q5qiwf&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td> 
 </tr>
-</table><br/>
+</table><br/><br/>
 
 ### <a name="software"></a>Software
 
