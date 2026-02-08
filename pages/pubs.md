@@ -19,6 +19,20 @@ description: Jeffrey Ziegler's research
 
 ### <a name="publications"></a>Publications
 
+<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on \textit{Per Curiam} Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>. <i>Conditionally Accepted at Journal of Law and Courts</i>.
+ </summary>
+<br/><p>
+Research that assesses individual judges’ ability to shape decisions typically focuses on courts that publish separate votes and opinions. Yet, many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use a convolutional neural network (CNN) to model the variation in judges’ expressed preferences from language in aggregated judgments. Specifically, we construct a CNN to analyze the written judgments of judge-rapporteurs and opinions of advocates-general from the Court of Justice of the European Union. Along a pro-/anti-EU dimension, we estimate how judgments differ within (1) each case relative to the advocate-general’s opinion, and (2) each judge-rapporteur which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocate-general or the judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
+</p><br/>
+</details>
+<br/>
+
+<details><summary> Stone, Andrew R. & Jeffrey Ziegler. <u><b>”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?”</b></u>. <i>Conditionally Accepted at Journal of Experimental Political Science</i>. </summary>
+<br/><p>
+Judges may express underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings of judicial proceedings shape high courts’ legitimacy differently than written transcripts. We address this question using two survey experiments from the US and UK. In sum, we do not find evidence that the method of delivery is associated with evaluations of court legitimacy as predicted by past studies. These null results persist when we account for the emotions that judges convey, perceived political inclinations of judges, and participants’ political preferences. Our findings offer novel insight into how attitudes toward high courts are associated with the medium through which judicial decisions are communicated.
+</p><br/>
+</details><br/>
+
 <details><summary> Goodman, Sherryl H., Shosuke Suzukia, Elizabeth Kushnera, Marissa D. Sbrillib, Jeffrey Ziegler, & Abby Yang (2026). <u><b>”Mechanisms of Mindfulness Training in Children and Adolescents: A Meta-Analysis Grounded in Monitor and Acceptance Theory”</b></u>. <i>Journal of Child and Family Studies</i> 35(1), 141-156. </summary>
 <br/><p>
 Despite the growing support for the clinical and psychosocial benefits of mindfulness-based interventions (MBIs) for children and adolescents, the mechanisms underlying their effects remain unknown. For adults, the Monitor and Acceptance Theory (MAT) proposes two mechanisms underlying the benefits of mindfulness-based interventions: Attention monitoring and acceptance. As a first step in evaluating whether MBIs benefit children and adolescents by acting on these same processes, we systematically reviewed the effects of MBIs on attention monitoring and acceptance skills in youths. Then, we examined whether MBIs differentially affected attention monitoring and acceptance in children and adolescents, and whether the effects of MBIs on monitoring or acceptance were moderated by age and by other characteristics of the sample, intervention, and study. Across 63 randomized clinical trials, we found that (1) MBIs have a small mean estimated effect on acceptance but not attention monitoring, and (2) there is no statistically significant difference between the mechanisms. Contrary to predictions, age did not moderate MBI effects. We found stronger mean effects associated with studies that sampled from a targeted sub-group relative to the universal population, and with mindfulness being a primary relative to secondary intervention component, consistent with knowledge of greater effectiveness of more focused treatment approaches. Overall, these findings suggest the need for continued work, taking a developmental perspective, to understand the mechanisms underlying MBIs for children and adolescents.
@@ -147,19 +161,13 @@ One of the more important innovations in the study of how citizens assess the U.
 
 ### <a name="workingPapers"></a>Working Papers
 
-<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>.
+<details><summary>Jeffrey Ziegler. <u><b>”Comparing Closed- and Open-Ended Responses to Measure Attention”</b></u>.
  </summary>
 <br/><p>
-Research that assesses individual judges' ability to shape decisions typically focus on courts that publish separate votes and opinions. Yet, many courts issue <i>per curiam</i> judgments that do not permit public dissent. To overcome this limitation, we use a convolutional neural network (CNN) to model the variation in judges' expressed preferences from language in aggregated judgments. Specifically, we construct a CNN to analyze the written judgments of judge-rapporteurs and opinions of advocates-general from the Court of Justice of the European Union. Along a pro-/anti-EU dimension, we estimate how judgments differ within (1) each case relative to the advocate-general's opinion, and (2) each judge-rapporteur which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocate-general or the judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
+While many researchers rely on closed-ended manipulation checks to measure respondents’ attention in surveys and experiments, these measures have notable limitations; including their binary nature, cuing of respondents, and the potential for guessing. Open-ended responses for attention checks, on the other hand, overcome all of these obstacles while inherently providing more variation than categorical closed-ended options. And yet, researchers overwhelmingly implement closed-ended items, rather than open-ended responses to assess respondents’ attention. I compare the circumstances under which open-ended or closed-ended attention checks are most effective. Specifically, I leverage multiple survey experiments to examine the impact of experimental stimuli (e.g., text vs. audio), topic, and survey placement on the efficacy of both closed- and open-ended attention checks. The results suggest that closed-ended responses are rarely preferable to open-ended responses to measure attention. I conclude with practical recommendations for designing surveys to strategically implement open-ended responses for attention checks.
 </p><br/>
 </details>
 <br/>
-
-<details><summary> Stone, Andrew R. & Jeffrey Ziegler. <u><b>”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?”</b></u> </summary>
-<br/><p>
-Research shows that judges express their underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings are more nor less detrimental to high courts’ legitimacy than written transcripts. First, using a nationally representative sample of Americans, we show that when individuals read the written transcripts from a case they are not more likely to grant the US Supreme Court legitimacy than individuals that hear the same dialogue. Second, we show among a nationally representative sample in the UK that Brits are not more or less likely to believe the nation’s high court is legitimate when they read, hear, or watch oral proceedings. These null results are not conditional on the emotions that judges convey, perceived political inclinations of judges, or participants’ political preferences. The findings have important implications for how national high courts communicate their decisions.
-</p><br/>
-</details><br/>
 
 ### <a name="dormant"></a>Dormant Papers
 
