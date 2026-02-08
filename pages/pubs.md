@@ -19,7 +19,7 @@ description: Jeffrey Ziegler's research
 
 ### <a name="publications"></a>Publications
 
-<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on \textit{Per Curiam} Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>. <i>Conditionally Accepted at Journal of Law and Courts</i>.
+<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>. <i>Conditionally Accepted at Journal of Law and Courts</i>.
  </summary>
 <br/><p>
 Research that assesses individual judges’ ability to shape decisions typically focuses on courts that publish separate votes and opinions. Yet, many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use a convolutional neural network (CNN) to model the variation in judges’ expressed preferences from language in aggregated judgments. Specifically, we construct a CNN to analyze the written judgments of judge-rapporteurs and opinions of advocates-general from the Court of Justice of the European Union. Along a pro-/anti-EU dimension, we estimate how judgments differ within (1) each case relative to the advocate-general’s opinion, and (2) each judge-rapporteur which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocate-general or the judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
