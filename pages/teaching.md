@@ -17,6 +17,8 @@ description: Jeff Ziegler's teaching
 - PG Applied Statistical Analysis I/PhD Quantitative Methods I (Fall 2021-2025; Trinity College Dublin)
 
 - PG Applied Statistical Analysis II/PhD Quantitative Methods II (Spring 2022-2024, 2026; Trinity College Dublin)
+
+- MSc Data Visualization for Social Scientists (Spring 2026; Trinity College Dublin)
   
 - PhD Research Design (Fall 2022; Trinity College Dublin)
 
