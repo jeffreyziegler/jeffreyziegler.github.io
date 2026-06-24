@@ -31,7 +31,6 @@ Research that assesses individual judges’ ability to shape decisions typically
 <br/><p>
 Judges may express underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings of judicial proceedings shape high courts’ legitimacy differently than written transcripts. We address this question using two survey experiments from the US and UK. In sum, we do not find evidence that the method of delivery is associated with evaluations of court legitimacy as predicted by past studies. These null results persist when we account for the emotions that judges convey, perceived political inclinations of judges, and participants’ political preferences. Our findings offer novel insight into how attitudes toward high courts are associated with the medium through which judicial decisions are communicated.
 </p><br/>
-</details><br/>
 </details>
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/do-the-audio-and-video-from-public-hearings-impact-high-court-legitimacy/D95907D3C51C9429524185435B1B981A" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
