@@ -32,6 +32,15 @@ Research that assesses individual judges’ ability to shape decisions typically
 Judges may express underlying political preferences when speaking that can only be captured with audio and not text. Yet, it is unclear if audio or video recordings of judicial proceedings shape high courts’ legitimacy differently than written transcripts. We address this question using two survey experiments from the US and UK. In sum, we do not find evidence that the method of delivery is associated with evaluations of court legitimacy as predicted by past studies. These null results persist when we account for the emotions that judges convey, perceived political inclinations of judges, and participants’ political preferences. Our findings offer novel insight into how attitudes toward high courts are associated with the medium through which judicial decisions are communicated.
 </p><br/>
 </details><br/>
+</details>
+<table align="left">
+  <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/do-the-audio-and-video-from-public-hearings-impact-high-court-legitimacy/D95907D3C51C9429524185435B1B981A" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://doi.org/10.1017/XPS.2026.10030.sm001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td> 
+<td></td>	  <td></td>  <td></td>
+	<td><a href="https://doi.org/10.7910/DVN/5TSY1H" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Replication Data</a></td> 
+	</tr>
+</table><br/><br/>
 
 <details><summary> Goodman, Sherryl H., Shosuke Suzukia, Elizabeth Kushnera, Marissa D. Sbrillib, Jeffrey Ziegler, & Abby Yang (2026). <u><b>”Mechanisms of Mindfulness Training in Children and Adolescents: A Meta-Analysis Grounded in Monitor and Acceptance Theory”</b></u>. <i>Journal of Child and Family Studies</i> 35(1), 141-156. </summary>
 <br/><p>
@@ -51,8 +60,7 @@ A growing theoretical literature identifies how the process of constitutional re
 </details>
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
-	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://www.dropbox.com/scl/fi/b17pp1bk1snokqzpotknq/CompLaw2024.pdf?rlkey=2rmrssbocim2jerinaq1jvtmv&st=7puf4srn&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td></tr>
+	</tr>
 </table><br/><br/>
 
 <details><summary> Miller, David R. & Jeffrey Ziegler (2024). <u><b>”Preferential Abstention in Conjoint Experiments”</b></u>. <i>Research and Politics</i> 11(4), 1-8. </summary>
@@ -63,9 +71,7 @@ Conjoint experiments are often used to mimic political choices that people face,
 <table align="left">
   <tr><td><a href="https://doi.org/10.1177/20531680241299329" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
-<td><a href="https://www.dropbox.com/scl/fi/wqvisxpvdcr878csp0vaa/MillerZiegler2024.pdf?rlkey=pdiyi2sex5jaxlpet5802669p&st=ygwelcqb&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td> 
-	  	  <td></td>	  <td></td>  <td></td>
-	  <td><a href="https://journals.sagepub.com/doi/suppl/10.1177/20531680241299329/suppl_file/sj-pdf-1-rap-10.1177_20531680241299329.pdf" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/>Supplementary Materials</a></td> 
+<td><a href="https://journals.sagepub.com/doi/suppl/10.1177/20531680241299329/suppl_file/sj-pdf-1-rap-10.1177_20531680241299329.pdf?_gl=1*mgd63b*_up*MQ..*_ga*Nzc2MzE3Mzc1LjE3ODIzMDY4Mzk.*_ga_60R758KFDG*czE3ODIzMDY4MzkkbzEkZzAkdDE3ODIzMDY4MzkkajYwJGwxJGgxNjI2NTY4NjE2" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td> 
 <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JQOPNW" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/>Replication Data</a></td></tr>
 </table><br/><br/>
@@ -77,9 +83,7 @@ Are centralized leaders of religious organizations responsive to their followers
 </details>
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/politics-and-religion/article/political-responsiveness-and-centralized-religious-leaders-lessons-from-the-catholic-church/7816CEDA334841B944CCCB829A626CCC" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
-	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://www.dropbox.com/scl/fi/m55a1k1929hyo2nx51y8i/Ziegler2024.pdf?rlkey=jkrkvs2jgi8dbmtwjpy87506p&st=7priodk2&dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
-<td></td>	  <td></td>  <td></td>
+	<td></td>	  <td></td>  <td></td>
 	<td><a href="https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1755048324000105/resource/name/S1755048324000105sup001.pdf" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
 </table><br/><br/>
 
@@ -123,8 +127,6 @@ Participants that complete online surveys and experiments may be inattentive, wh
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/political-analysis/article/abs/textasdata-approach-for-using-openended-responses-as-manipulation-checks/C0A94C4CC5D0ECC72E8A670050D76ED4#article" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://osf.io/preprints/socarxiv/ztgpm/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
-	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WXIRQN" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
 </table><br/><br/>
 
@@ -137,8 +139,6 @@ Democracies are thought to violate treaties less frequently than non-democracies
 
 <table align="left">
   <tr><td><a href="https://www.ir-journal.com/issues/volume-18-number-072-2022/the-role-of-democratic-governance-and-indirect-expropriation-in-international-investment-treaty-violations" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
-	  <td></td>	  <td></td>  <td></td>
-	  <td><a href="https://osf.io/preprints/socarxiv/b7xp2/" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TBKLWV" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials and Replication Data</a></td></tr>
 </table><br/><br/>
