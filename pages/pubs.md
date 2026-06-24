@@ -201,11 +201,13 @@ Accompanying R package for "A Text-As-Data Approach for Using Open-Ended Respons
 
 ### <a name="grants"></a>Grants and Awards
 
-- Faculty Events Fund, Trinity College Dublin (2025)
-
-- Visiting Professorships and Fellowships Benefaction Fund, Trinity College Dublin (2024, 2025)
+- Grattan Research Internship Programme (2026)
   
-- TRiSS Academic Research Fellowship, Trinity College Dublin (2022)
+- Visiting Professorships and Fellowships Benefaction Fund, Trinity College Dublin (2024, 2025, 2026)
+  
+- TRiSS Academic Research Fellowship, Trinity College Dublin (2022, 2026)
+
+- Faculty Events Fund, Trinity College Dublin (2025)
 
 - Arts and Social Sciences Benefactions Fund, Trinity College Dublin (2022)
 
