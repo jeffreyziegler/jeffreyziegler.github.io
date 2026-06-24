@@ -72,7 +72,7 @@ Conjoint experiments are often used to mimic political choices that people face,
 <table align="left">
   <tr><td><a href="https://doi.org/10.1177/20531680241299329" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
-<td><a href="https://journals.sagepub.com/doi/suppl/10.1177/20531680241299329/suppl_file/sj-pdf-1-rap-10.1177_20531680241299329.pdf?_gl=1*mgd63b*_up*MQ..*_ga*Nzc2MzE3Mzc1LjE3ODIzMDY4Mzk.*_ga_60R758KFDG*czE3ODIzMDY4MzkkbzEkZzAkdDE3ODIzMDY4MzkkajYwJGwxJGgxNjI2NTY4NjE2" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td> 
+<td><a href="https://www.dropbox.com/scl/fi/nniu02v2uuydutdq15vfx/MillerZiegler2024_SM.pdf?rlkey=yj6yf96h7hecd8uebr1dmqp6z&st=6zjtq2xn&dl=0" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td> 
 <td></td>	  <td></td>  <td></td>
 	<td><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JQOPNW" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/>Replication Data</a></td></tr>
 </table><br/><br/>
