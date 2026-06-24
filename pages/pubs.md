@@ -59,6 +59,8 @@ A growing theoretical literature identifies how the process of constitutional re
 </details>
 <table align="left">
   <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/complaw-a-coding-protocol-and-database-for-the-comparative-study-of-judicial-review/5685D3D3909A911C7DDB9CD6F160D821" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	    <td></td>	  <td></td>  <td></td>
+<td><a href="https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS2164657024000044/resource/name/S2164657024000044sup001.pdf" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td> 
 	</tr>
 </table><br/><br/>
 
