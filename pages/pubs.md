@@ -19,13 +19,20 @@ description: Jeffrey Ziegler's research
 
 ### <a name="publications"></a>Publications
 
-<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>. <i>Accepted at Journal of Law and Courts</i>.
+<details><summary> Cheruvu, Sivaram, & Jeffrey Ziegler. <u><b>”How Much Influence Do Opinion-Writers Have on Per Curiam Courts? Uncovering Author Drift in Written Decisions at the European Court of Justice”</b></u>. <i>Forthcoming at Journal of Law and Courts</i>.
  </summary>
 <br/><p>
 Research that assesses individual judges’ ability to shape decisions typically focuses on courts that publish separate votes and opinions. Yet, many courts issue per curiam judgments that do not permit public dissent. To overcome this limitation, we use a convolutional neural network (CNN) to model the variation in judges’ expressed preferences from language in aggregated judgments. Specifically, we construct a CNN to analyze the written judgments of judge-rapporteurs and opinions of advocates-general from the Court of Justice of the European Union. Along a pro-/anti-EU dimension, we estimate how judgments differ within (1) each case relative to the advocate-general’s opinion, and (2) each judge-rapporteur which measures how judges alter their writing across cases. Our results provide novel empirical support for theoretic models of European judicial decision-making: more pro-EU opinions driven by the Court, not the advocate-general or the judge-rapporteur, are associated with larger chambers and stronger external signals of compliance.
 </p><br/>
 </details>
-<br/>
+<table align="left">
+  <tr><td><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/how-much-influence-do-opinionwriters-have-on-per-curiam-courts-uncovering-author-drift-in-written-decisions-at-the-european-court-of-justice/0F6C244557FF0B7CDC5572A94F1C95BE" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Link </a></td>
+	  <td></td>	  <td></td>  <td></td>
+	<td><a href="https://doi.org/10.1017/jlc.2026.10030.sm001" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td> 
+<td></td>	  <td></td>  <td></td>
+	<td><a href="https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/ZK6GBN" target="_blank"> <img src="icons16/google-icon.png" alt="hi" class="inline"/> Replication Data</a></td> 
+	</tr>
+</table><br/><br/>
 
 <details><summary> Stone, Andrew R. & Jeffrey Ziegler. <u><b>”Do the Audio and Video from Public Hearings Impact High Court Legitimacy?”</b></u>. <i>Forthcoming at Journal of Experimental Political Science</i>. </summary>
 <br/><p>
